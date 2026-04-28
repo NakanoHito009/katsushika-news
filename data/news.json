@@ -1,12 +1,165 @@
 [
   {
+    "id": "c2897df8",
+    "title": "（株）オリタニ",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-04-28",
+    "summary": "（株）オリタニについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1027574/1032757/1042016.html"
+  },
+  {
+    "id": "02ce5769",
+    "title": "高齢者補聴器購入費助成",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-04-28",
+    "summary": "※7月1日より、新たな高齢者補聴器購入費助成が始まりました。（店舗情報更新）",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1030186/1002144/1038848.html"
+  },
+  {
+    "id": "1e6fe178",
+    "title": "葛飾区健康経営優良事業者認証制度",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-04-28",
+    "summary": "葛飾区健康経営優良事業者認証制度についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1030233/1000070/1036562.html"
+  },
+  {
+    "id": "fcc8564f",
+    "title": "職員の給与・定員管理等について公表します",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-04-28",
+    "summary": "職員の給与・定員管理等について公表しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000084/1006013/1019688.html"
+  },
+  {
+    "id": "75317f31",
+    "title": "くつろぎ入浴事業",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-04-28",
+    "summary": "くつろぎ入浴事業についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1030186/1002144/1002196.html"
+  },
+  {
+    "id": "15bdeb07",
+    "title": "東立石自転車置場を一部閉鎖します",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-04-28",
+    "summary": "東立石自転車置場を一部閉鎖しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/planning/1030243/1003619/1042150.html"
+  },
+  {
+    "id": "517aa053",
+    "title": "ママとパパの愛情アップ講座",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-04-28",
+    "summary": "ママとパパの愛情アップ講座についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1041972.html"
+  },
+  {
+    "id": "8df3da6b",
+    "title": "新小岩公園　和楽亭",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-04-28",
+    "summary": "新小岩公園　和楽亭についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030225/1030227/1006822.html"
+  },
+  {
+    "id": "68425afd",
+    "title": "リサイクル自転車の販売",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-04-28",
+    "summary": "リサイクル自転車の販売についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001577.html"
+  },
+  {
+    "id": "e4c02d2b",
+    "title": "粗大ごみリユース情報　 有料リユース品について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-04-28",
+    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
+  },
+  {
+    "id": "3c0ab792",
+    "title": "粗大ごみリユース情報　 無料リユース家具について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-04-28",
+    "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
+  },
+  {
     "id": "535ba637",
     "title": "細田五丁目公園（仮称）整備事業通信",
     "category": "区政",
     "categorySlug": "kusei",
-    "date": "2026-04-27",
+    "date": "2026-04-28",
     "summary": "細田五丁目公園（仮称）整備事業通信についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/planning/1003408/1042085/1042087.html"
+  },
+  {
+    "id": "c9ad0d5c",
+    "title": "南奥戸児童館令和8年5月の行事予定",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-04-28",
+    "summary": "南奥戸児童館令和8年5月の行事予定についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000114/1000792/1042003.html"
+  },
+  {
+    "id": "7d177d17",
+    "title": "広告",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-04-28",
+    "summary": "広告についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/koukoku/1010020.html"
+  },
+  {
+    "id": "5ec7e3f6",
+    "title": "健康ホットラインかつしか",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-04-28",
+    "summary": "健康ホットラインかつしかについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003788/1009951.html"
+  },
+  {
+    "id": "bdf757e2",
+    "title": "例月出納検査",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-04-28",
+    "summary": "例月出納検査についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000081/1005901/1005908.html"
+  },
+  {
+    "id": "a1919ed3",
+    "title": "定期監査及び工事監査",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-04-28",
+    "summary": "定期監査及び工事監査についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000081/1005901/1005906.html"
+  },
+  {
+    "id": "e129f46a",
+    "title": "子育てひろば",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-04-28",
+    "summary": "子育てひろばについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1002340/1002458.html"
   },
   {
     "id": "d96788e1",
@@ -115,158 +268,5 @@
     "date": "2026-04-27",
     "summary": "文化芸術講座「川柳初心者講座」についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1038703.html"
-  },
-  {
-    "id": "a9f61fa5",
-    "title": "第7回柴又フロリズ通りフェスティバルを開催します（入場無料・予約不要）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "第7回柴又フロリズ通りフェスティバルを開催します（入場無料・予約不要）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000087/1030269/1022739/1035190.html"
-  },
-  {
-    "id": "0ecfda21",
-    "title": "（株）日伸鉄工建設、（株）水元設備",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-04-27",
-    "summary": "（株）日伸鉄工建設、（株）水元設備についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1027574/1032757/1032758.html"
-  },
-  {
-    "id": "189b4364",
-    "title": "～測って、知ろう～体力テスト（6/28水元会場）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "～測って、知ろう～体力テスト（6/28水元会場）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000112/1022863.html"
-  },
-  {
-    "id": "f73a5de6",
-    "title": "葛飾区伝統産業職人会まつり",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "葛飾区伝統産業職人会まつりについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000107/1000615.html"
-  },
-  {
-    "id": "943b5cd3",
-    "title": "物品・委託等発注予定（4月27日）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-04-27",
-    "summary": "物品・委託等発注予定（4月27日）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1042129.html"
-  },
-  {
-    "id": "b008e4e2",
-    "title": "工期又は請負代金の額に影響を及ぼす事象に関する情報の通知について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-04-27",
-    "summary": "工期又は請負代金の額に影響を及ぼす事象に関する情報の通知についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005055/1038088.html"
-  },
-  {
-    "id": "151c5521",
-    "title": "食物アレルギーについて",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-04-27",
-    "summary": "食物アレルギーについてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1030184/1001799/1037581/1037666/1037794.html"
-  },
-  {
-    "id": "4f866fda",
-    "title": "葛飾区防災活動団体事業費助成金の申し込みについて",
-    "category": "防災",
-    "categorySlug": "bousai",
-    "date": "2026-04-27",
-    "summary": "葛飾区防災活動団体事業費助成金の申し込みについてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1000063/1004038/1031243/index.html"
-  },
-  {
-    "id": "d477836c",
-    "title": "南水元集い交流館",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "南水元集い交流館についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006725/1006787.html"
-  },
-  {
-    "id": "b9ed9395",
-    "title": "末広集い交流館",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "末広集い交流館についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006725/1006775.html"
-  },
-  {
-    "id": "90a8646e",
-    "title": "渋江集い交流館",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "渋江集い交流館についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006725/1006771.html"
-  },
-  {
-    "id": "d758d317",
-    "title": "幸田集い交流館",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "幸田集い交流館についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006725/1006768.html"
-  },
-  {
-    "id": "e28c411e",
-    "title": "上平井集い交流館",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "上平井集い交流館についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006725/1006762.html"
-  },
-  {
-    "id": "96c2a007",
-    "title": "いいづか集い交流館",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "いいづか集い交流館についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006725/1006759.html"
-  },
-  {
-    "id": "162e86ec",
-    "title": "高砂地区センター",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "高砂地区センターについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006724/1006753.html"
-  },
-  {
-    "id": "d887eef9",
-    "title": "堀切地区センター",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "堀切地区センターについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006724/1006752.html"
-  },
-  {
-    "id": "415e27a5",
-    "title": "四つ木地区センター",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-04-27",
-    "summary": "四つ木地区センターについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1025547/1006724/1006751.html"
   }
 ]
