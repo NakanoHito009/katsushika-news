@@ -1,5 +1,41 @@
 [
   {
+    "id": "4431df52",
+    "title": "東京聖栄大学　食と栄養の講座＜今さらお米されどお米＞",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-04-29",
+    "summary": "東京聖栄大学　食と栄養の講座＜今さらお米されどお米＞についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1024696.html"
+  },
+  {
+    "id": "17947574",
+    "title": "そうさく教室のご案内",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-04-29",
+    "summary": "そうさく教室のご案内についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1022570.html"
+  },
+  {
+    "id": "19a0c80f",
+    "title": "令和8年度　東京聖栄大学公開講座のご案内",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-04-29",
+    "summary": "令和8年度　東京聖栄大学公開講座のご案内についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1020436.html"
+  },
+  {
+    "id": "73175d72",
+    "title": "令和8年度会計年度任用職員（個人番号カード交付事業推進員）を募集します",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-04-29",
+    "summary": "令和8年度会計年度任用職員（個人番号カード交付事業推進員）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1042133.html"
+  },
+  {
     "id": "c2897df8",
     "title": "（株）オリタニ",
     "category": "区政",
@@ -232,41 +268,5 @@
     "date": "2026-04-27",
     "summary": "文化芸術講座についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/tourism/1002757/1042039/index.html"
-  },
-  {
-    "id": "6c7ec30e",
-    "title": "宣言事業者一覧（あ行）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-04-27",
-    "summary": "宣言事業者一覧（あ行）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1027574/1041529/1041531.html"
-  },
-  {
-    "id": "94a9444a",
-    "title": "宣言事業者一覧・宣言書・達成状況報告書",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-04-27",
-    "summary": "宣言事業者一覧・宣言書・達成状況報告書についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1027574/1041529/index.html"
-  },
-  {
-    "id": "778fea73",
-    "title": "第44回 葛飾区民総合芸術祭典「囲碁大会」参加者募集！",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-04-27",
-    "summary": "第44回 葛飾区民総合芸術祭典「囲碁大会」参加者募集！についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1038733.html"
-  },
-  {
-    "id": "e9354ae3",
-    "title": "文化芸術講座「川柳初心者講座」",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-04-27",
-    "summary": "文化芸術講座「川柳初心者講座」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1038703.html"
   }
 ]
