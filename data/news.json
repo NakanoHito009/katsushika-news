@@ -1,5 +1,23 @@
 [
   {
+    "id": "267a9cd2",
+    "title": "現在募集中の住宅",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-05-06",
+    "summary": "現在募集中の住宅についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1003399/1030172/1035195.html"
+  },
+  {
+    "id": "e1b13a4b",
+    "title": "都営住宅（東京都公募分）・都営住宅（地元割当）・区営住宅入居者募集（令和8年5月）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-05-06",
+    "summary": "都営住宅（東京都公募分）・都営住宅（地元割当）・区営住宅入居者募集（令和8年5月）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1003399/1030172/1023163.html"
+  },
+  {
     "id": "63893168",
     "title": "保田しおさい学校見学会",
     "category": "子育て",
@@ -250,23 +268,5 @@
     "date": "2026-05-01",
     "summary": "広報かつしかスポーツ面大会結果についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1038810.html"
-  },
-  {
-    "id": "40ed69b7",
-    "title": "マンション管理計画認定取得のためのアドバイザーを派遣します",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-05-01",
-    "summary": "マンション管理計画認定取得のためのアドバイザーを派遣しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1003399/1033377/1038729.html"
-  },
-  {
-    "id": "c735671e",
-    "title": "葛飾区役所内食堂について",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-05-01",
-    "summary": "葛飾区役所内食堂についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1030184/1034188.html"
   }
 ]
