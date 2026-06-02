@@ -1,5 +1,194 @@
 [
   {
+    "id": "298475e3",
+    "title": "暴風等の荒れた天気による気象警報発令時の対応について（令和8年6月改訂）",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-02",
+    "summary": "暴風等の荒れた天気による気象警報発令時の対応について（令和8年6月改訂）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1042482.html"
+  },
+  {
+    "id": "02ce5769",
+    "title": "高齢者補聴器購入費助成",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-02",
+    "summary": "※7月1日より、新たな高齢者補聴器購入費助成が始まりました。（店舗情報更新）",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1030186/1002144/1038848.html"
+  },
+  {
+    "id": "b60e5a0b",
+    "title": "中央図書館　スマートフォン・タブレットなどで本を読もう！～はじめての電子書籍～",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-02",
+    "summary": "中央図書館　スマートフォン・タブレットなどで本を読もう！～はじめての電子書籍～についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000116/1038673.html"
+  },
+  {
+    "id": "2e20ab23",
+    "title": "住民票等への旧氏（旧姓）の記載について",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-02",
+    "summary": "住民票等への旧氏（旧姓）の記載についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001401/1021931.html"
+  },
+  {
+    "id": "f8e88bdd",
+    "title": "【重要】台風6号接近に伴うイベントの中止について",
+    "category": "防災",
+    "categorySlug": "bousai",
+    "date": "2026-06-02",
+    "summary": "【重要】台風6号接近に伴うイベントの中止についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1030208/1042488.html"
+  },
+  {
+    "id": "b54cbb36",
+    "title": "6月17日・6月18日　障害者施設自主生産品の販売会",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-02",
+    "summary": "6月17日・6月18日　障害者施設自主生産品の販売会についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000053/1040935.html"
+  },
+  {
+    "id": "06b2e661",
+    "title": "親子自然観察会（セミの羽化）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-02",
+    "summary": "親子自然観察会（セミの羽化）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1030304/1032457.html"
+  },
+  {
+    "id": "9a79b160",
+    "title": "かつしか環境・緑化フェア2026を開催します",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-02",
+    "summary": "かつしか環境・緑化フェア2026を開催しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1028709.html"
+  },
+  {
+    "id": "67ba9fa0",
+    "title": "令和8年度　産後ケア事業",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-02",
+    "summary": "令和8年度　産後ケア事業についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1020863.html"
+  },
+  {
+    "id": "0a35a477",
+    "title": "葛飾区生活介護員養成研修（介護に関する入門的研修）",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-02",
+    "summary": "葛飾区生活介護員養成研修（介護に関する入門的研修）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000051/1002106/1011361.html"
+  },
+  {
+    "id": "0c2603e9",
+    "title": "小菅東スポーツ公園",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-02",
+    "summary": "小菅東スポーツ公園についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1000096/1006891.html"
+  },
+  {
+    "id": "9c95c0f2",
+    "title": "ハッピーバースデイすくすく歯科健診（1歳児 歯科健診）",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-02",
+    "summary": "ハッピーバースデイすくすく歯科健診（1歳児 歯科健診）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1023756.html"
+  },
+  {
+    "id": "b3aed2ec",
+    "title": "台風6号の接近に伴うわくわくチャレンジ広場の休止について（お知らせ）",
+    "category": "防災",
+    "categorySlug": "bousai",
+    "date": "2026-06-02",
+    "summary": "台風6号の接近に伴うわくわくチャレンジ広場の休止について（お知らせ）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1042480.html"
+  },
+  {
+    "id": "7d5aa06c",
+    "title": "広報かつしか令和8年6月5日号",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-02",
+    "summary": "広報かつしか令和8年6月5日号についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/kouho/1005537/1041613/1042412/index.html"
+  },
+  {
+    "id": "78537752",
+    "title": "【シニア向け】シルバーカレッジ「幕末から明治の偉人」全2回",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-02",
+    "summary": "【シニア向け】シルバーカレッジ「幕末から明治の偉人」全2回についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1042119.html"
+  },
+  {
+    "id": "68b3b65b",
+    "title": "自然学習講座「怖そうで怖くない！ハナアブの知らない世界」",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-02",
+    "summary": "自然学習講座「怖そうで怖くない！ハナアブの知らない世界」についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1030304/1035876.html"
+  },
+  {
+    "id": "893e0de0",
+    "title": "葛飾区区民モニターアンケート調査",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-02",
+    "summary": "葛飾区区民モニターアンケート調査についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000083/1005976/1022024.html"
+  },
+  {
+    "id": "0fabe59d",
+    "title": "「金魚展示場第7回江戸前金魚展」を開催します",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-01",
+    "summary": "「金魚展示場第7回江戸前金魚展」を開催しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/planning/1003408/1026508.html"
+  },
+  {
+    "id": "e5095a1c",
+    "title": "性の多様性講座　映画「ふたりのまま」上映＆制作者講演会",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-01",
+    "summary": "性の多様性講座　映画「ふたりのまま」上映＆制作者講演会についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1042093.html"
+  },
+  {
+    "id": "ac5bde22",
+    "title": "あなたの身近な性的マイノリティのこと、知っていますか",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-01",
+    "summary": "あなたの身近な性的マイノリティのこと、知っていますかについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000082/1030252/1005916/1035720.html"
+  },
+  {
+    "id": "6398f5b7",
+    "title": "子どもの健康を考える会～思春期の子どもの心の成長と親の関わり方～",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-01",
+    "summary": "子どもの健康を考える会～思春期の子どもの心の成長と親の関わり方～についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1033343.html"
+  },
+  {
     "id": "8a14a91f",
     "title": "令和8年度葛飾区高次脳機能障害者相談支援機関連絡会　講演会",
     "category": "福祉",
@@ -79,194 +268,5 @@
     "date": "2026-06-01",
     "summary": "女性しごと応援キャラバンin 葛飾「お金から考えるライフとキャリア ～これからの見通しを立てる～」についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1000106/1041935.html"
-  },
-  {
-    "id": "f7ecc680",
-    "title": "令和8年7月7日（立石）　認知症サポーター養成講座",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-01",
-    "summary": "令和8年7月7日（立石）　認知症サポーター養成講座についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1032371/1041934.html"
-  },
-  {
-    "id": "ea8437b7",
-    "title": "男女平等推進センターと一緒に講座を開催しませんか",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "男女平等推進センターと一緒に講座を開催しませんかについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1041915.html"
-  },
-  {
-    "id": "3b652eee",
-    "title": "令和8年6月25日（お花茶屋）　認知症サポーター養成講座",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-01",
-    "summary": "令和8年6月25日（お花茶屋）　認知症サポーター養成講座についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1032371/1041405.html"
-  },
-  {
-    "id": "843f4b5a",
-    "title": "シニアのためのゆっくり・じっくりIT講座　7月分",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-01",
-    "summary": "シニアのためのゆっくり・じっくりIT講座　7月分についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1040604.html"
-  },
-  {
-    "id": "267a9cd2",
-    "title": "現在募集中の住宅",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-01",
-    "summary": "現在募集中の住宅についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1003399/1030172/1035195.html"
-  },
-  {
-    "id": "fed54661",
-    "title": "自然学習講座「葛飾の田んぼについて知ろう！」",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-01",
-    "summary": "自然学習講座「葛飾の田んぼについて知ろう！」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1030304/1033005.html"
-  },
-  {
-    "id": "73fa7700",
-    "title": "シルバーピア住宅の入居者を募集します",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-01",
-    "summary": "シルバーピア住宅の入居者を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1003399/1030172/1032197.html"
-  },
-  {
-    "id": "0a974b8d",
-    "title": "親子クッキング（7月 水元学び交流館）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "親子クッキング（7月 水元学び交流館）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1030302/1022967.html"
-  },
-  {
-    "id": "393c6796",
-    "title": "男女平等推進センターWhat's　New",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-01",
-    "summary": "男女平等推進センターWhat's　Newについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000082/1030252/1005915/1005930.html"
-  },
-  {
-    "id": "bc0844df",
-    "title": "広報特派員を募集します",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-01",
-    "summary": "広報特派員を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kouho/1042423/1042424.html"
-  },
-  {
-    "id": "d8e504dc",
-    "title": "広報特派員",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-01",
-    "summary": "広報特派員についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kouho/1042423/index.html"
-  },
-  {
-    "id": "09276173",
-    "title": "6月キッズ教室　「はしれ！プルバックカー♪」",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "6月キッズ教室　「はしれ！プルバックカー♪」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000099/1002759/1031951/1036028/1042400.html"
-  },
-  {
-    "id": "f4ed2513",
-    "title": "認知症予防教室",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "認知症予防教室についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1042208.html"
-  },
-  {
-    "id": "a9dc1a67",
-    "title": "令和8年度「中川かわまちづくりイベント」を開催します！",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "令和8年度「中川かわまちづくりイベント」を開催します！",
-    "url": "https://www.city.katsushika.lg.jp/planning/1003614/1036877/1041304.html"
-  },
-  {
-    "id": "153e6b2a",
-    "title": "2026葛飾菖蒲まつり",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "2026葛飾菖蒲まつりについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1000064/1028427.html"
-  },
-  {
-    "id": "6d793140",
-    "title": "すくすく歯育て歯科健康診査（2歳児 歯科健診）",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-01",
-    "summary": "すくすく歯育て歯科健康診査（2歳児 歯科健診）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1023236.html"
-  },
-  {
-    "id": "2b96172a",
-    "title": "「水元かわせみの里」自然紹介",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-01",
-    "summary": "「水元かわせみの里」自然紹介についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1030304/1023067.html"
-  },
-  {
-    "id": "5f86ca7f",
-    "title": "科学教育センター「未来わくわく館」",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "科学教育センター「未来わくわく館」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1006933.html"
-  },
-  {
-    "id": "9b249557",
-    "title": "堀切菖蒲園",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-01",
-    "summary": "堀切菖蒲園についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1000096/1006888.html"
-  },
-  {
-    "id": "e4c02d2b",
-    "title": "粗大ごみリユース情報　 有料リユース品について",
-    "category": "生活情報",
-    "categorySlug": "seikatsu",
-    "date": "2026-06-01",
-    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
-  },
-  {
-    "id": "3c0ab792",
-    "title": "粗大ごみリユース情報　 無料リユース家具について",
-    "category": "生活情報",
-    "categorySlug": "seikatsu",
-    "date": "2026-06-01",
-    "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
   }
 ]
