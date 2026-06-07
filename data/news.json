@@ -1,5 +1,23 @@
 [
   {
+    "id": "d7a7846f",
+    "title": "銭湯で葛飾フィルハーモニー管弦楽団のメンバーによる演奏を聴きませんか",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-07",
+    "summary": "銭湯で葛飾フィルハーモニー管弦楽団のメンバーによる演奏を聴きませんかについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1042067.html"
+  },
+  {
+    "id": "3707cdb4",
+    "title": "小児生活習慣病予防健診を受診しましょう！",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-07",
+    "summary": "小児生活習慣病予防健診を受診しましょう！についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1011612.html"
+  },
+  {
     "id": "4fbd2a2f",
     "title": "広報かつしかスポーツ面大会結果",
     "category": "区政",
@@ -250,23 +268,5 @@
     "date": "2026-06-04",
     "summary": "令和8年度の成人歯科健康診査（ご案内）についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1001810.html"
-  },
-  {
-    "id": "7361ebd1",
-    "title": "公示送達",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-04",
-    "summary": "公示送達についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001691/1042409.html"
-  },
-  {
-    "id": "ac1e934f",
-    "title": "自慢のペットの写真を大募集！",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-04",
-    "summary": "動物愛護週間である9月24日（木曜日）～9月25日（金曜日）に、健康プラザかつしか1階で「我が家自慢のペットの写真展」を開催します！\nそこで、「我が家自慢のペットの写真展」で展示する、自慢のペットの写真を募集中です。\nご応募いただいた写真は、写真展での展示のほか、広報紙に掲載するなどの広報活動に活用させていただきます。\nペットの飼い主の方は、奮ってご応募ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1003399/1042407.html"
   }
 ]
