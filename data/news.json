@@ -1,5 +1,185 @@
 [
   {
+    "id": "5aab0be3",
+    "title": "東京電機大学 研究推進社会連携センター（産官学連携担当）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-10",
+    "summary": "東京電機大学 研究推進社会連携センター（産官学連携担当）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000066/1004930/1026879/1037257.html"
+  },
+  {
+    "id": "a529443d",
+    "title": "【子ども総合センター】会計年度任用職員（発達支援専門員福祉）を募集します",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-10",
+    "summary": "【子ども総合センター】会計年度任用職員（発達支援専門員福祉）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1036269.html"
+  },
+  {
+    "id": "49dc2b59",
+    "title": "【子ども総合センター】会計年度任用職員（発達支援専門員心理・育休代替）を募集します",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-10",
+    "summary": "【子ども総合センター】会計年度任用職員（発達支援専門員心理・育休代替）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1033617.html"
+  },
+  {
+    "id": "674355d3",
+    "title": "鎌倉公園",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-10",
+    "summary": "鎌倉公園についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1000096/1006903.html"
+  },
+  {
+    "id": "31828ce7",
+    "title": "禁煙に取り組む区民の方を応援します！",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-10",
+    "summary": "禁煙に取り組む区民の方を応援します！についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1030419.html"
+  },
+  {
+    "id": "c7dce99e",
+    "title": "葛飾区介護サービス事業所等ICT化促進費助成金",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-10",
+    "summary": "葛飾区介護サービス事業所等ICT化促進費助成金についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1005251/1028508.html"
+  },
+  {
+    "id": "0a35a477",
+    "title": "葛飾区生活介護員養成研修（介護に関する入門的研修）",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-10",
+    "summary": "葛飾区生活介護員養成研修（介護に関する入門的研修）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000051/1002106/1011361.html"
+  },
+  {
+    "id": "a3cb041a",
+    "title": "休日対応薬局　7月分",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-10",
+    "summary": "休日対応薬局　7月分についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002052.html"
+  },
+  {
+    "id": "0d886d2b",
+    "title": "休日当番接骨院案内　7月分",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-10",
+    "summary": "休日当番接骨院案内　7月分についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002050.html"
+  },
+  {
+    "id": "bbc2ff8a",
+    "title": "休日診療医科当番医案内 7月分",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-10",
+    "summary": "休日診療医科当番医案内 7月分についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002046.html"
+  },
+  {
+    "id": "e4c02d2b",
+    "title": "粗大ごみリユース情報　 有料リユース品について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-06-10",
+    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
+  },
+  {
+    "id": "3c0ab792",
+    "title": "粗大ごみリユース情報　 無料リユース家具について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-06-10",
+    "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
+  },
+  {
+    "id": "8625c723",
+    "title": "改築校の進捗状況",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-10",
+    "summary": "改築校の進捗状況についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1002541/1042154.html"
+  },
+  {
+    "id": "c42ffa85",
+    "title": "令和8年度葛飾区行政評価委員会を傍聴できます",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-10",
+    "summary": "令和8年度葛飾区行政評価委員会を傍聴できますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000085/1006294/1006359/1041389/1042135.html"
+  },
+  {
+    "id": "4fbd2a2f",
+    "title": "区民体育大会等結果",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-10",
+    "summary": "区民体育大会等結果についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1038810.html"
+  },
+  {
+    "id": "032f83aa",
+    "title": "公共工事等発注予定（令和8年6月10日）",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-06-09",
+    "summary": "公共工事等発注予定（令和8年6月10日）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1042537.html"
+  },
+  {
+    "id": "34f40ca7",
+    "title": "公共工事等発注予定（（仮称）葛飾区新宿地区屋内温水プール空調設備工事【区内業者限定入札】）",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-06-09",
+    "summary": "公共工事等発注予定（（仮称）葛飾区新宿地区屋内温水プール空調設備工事【区内業者限定入札】）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1042533.html"
+  },
+  {
+    "id": "b5f1bfc5",
+    "title": "公共工事等発注予定（（仮称）葛飾区新宿地区屋内温水プール給排水衛生設備工事【区内業者限定入札】）",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-06-09",
+    "summary": "公共工事等発注予定（（仮称）葛飾区新宿地区屋内温水プール給排水衛生設備工事【区内業者限定入札】）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1042532.html"
+  },
+  {
+    "id": "0f28a1d9",
+    "title": "公共工事等発注予定（（仮称）葛飾区新宿地区屋内温水プール電気設備工事【区内業者限定入札】）",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-06-09",
+    "summary": "公共工事等発注予定（（仮称）葛飾区新宿地区屋内温水プール電気設備工事【区内業者限定入札】）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1042526.html"
+  },
+  {
+    "id": "eaae2b3c",
+    "title": "区立保育園夏季アルバイト（短期）を募集します",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-09",
+    "summary": "区立保育園夏季アルバイト（短期）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1020176.html"
+  },
+  {
     "id": "78537752",
     "title": "【シニア向け】シルバーカレッジ「幕末から明治の偉人」全2回",
     "category": "福祉",
@@ -7,15 +187,6 @@
     "date": "2026-06-09",
     "summary": "【シニア向け】シルバーカレッジ「幕末から明治の偉人」全2回についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1000106/1042119.html"
-  },
-  {
-    "id": "4fbd2a2f",
-    "title": "区民体育大会等結果",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-09",
-    "summary": "区民体育大会等結果についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1038810.html"
   },
   {
     "id": "6133a9fc",
@@ -97,176 +268,5 @@
     "date": "2026-06-09",
     "summary": "葛飾区健康経営優良事業者認証制度についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/business/1000011/1030233/1000070/1036562.html"
-  },
-  {
-    "id": "6ed3050a",
-    "title": "個人番号カード休日交付窓口について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-09",
-    "summary": "個人番号カード休日交付窓口についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001402/1032454.html"
-  },
-  {
-    "id": "447f9acf",
-    "title": "公共工事等発注予定（葛飾区立東四つ木小学校・中川中学校建築工事【区内業者限定入札】）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-09",
-    "summary": "公共工事等発注予定（葛飾区立東四つ木小学校・中川中学校建築工事【区内業者限定入札】）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1042534.html"
-  },
-  {
-    "id": "7ebb713e",
-    "title": "物品・委託等発注予定（6月9日）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-09",
-    "summary": "物品・委託等発注予定（6月9日）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1042531.html"
-  },
-  {
-    "id": "7c5a2157",
-    "title": "プロポーザル方式業者選定委員会の選定結果について（新金線を活用した新交通事業化計画策定業務支援委託）",
-    "category": "生活情報",
-    "categorySlug": "seikatsu",
-    "date": "2026-06-09",
-    "summary": "プロポーザル方式業者選定委員会の選定結果について（新金線を活用した新交通事業化計画策定業務支援委託）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005056/1042530.html"
-  },
-  {
-    "id": "79c21586",
-    "title": "ひとり親家庭等向け講習会（民法改正）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-09",
-    "summary": "ひとり親家庭等向け講習会（民法改正）を開催します。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002341/1042099.html"
-  },
-  {
-    "id": "29656cd7",
-    "title": "区立保育園会計年度任用職員（要支援児保育士）を募集します",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-09",
-    "summary": "区立保育園会計年度任用職員（要支援児保育士）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1022355.html"
-  },
-  {
-    "id": "e8f61edf",
-    "title": "令和8年経済センサス-活動調査にご協力ください",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-08",
-    "summary": "令和8年経済センサス-活動調査にご協力くださいについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000083/1005976/1025907.html"
-  },
-  {
-    "id": "d848c6ee",
-    "title": "花火講習会・ワークショップ",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-08",
-    "summary": "花火講習会・ワークショップについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1000064/1000065/1042200.html"
-  },
-  {
-    "id": "aea3f43a",
-    "title": "2026かつしかスポーツ大会総合開会式　エンジョイスポーツ2026のお知らせ",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-08",
-    "summary": "2026かつしかスポーツ大会総合開会式　エンジョイスポーツ2026のお知らせについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030212/1038952.html"
-  },
-  {
-    "id": "8132bec0",
-    "title": "フードドライブ運動を推進しています",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-08",
-    "summary": "フードドライブ運動を推進していますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1026168.html"
-  },
-  {
-    "id": "dbc35c60",
-    "title": "定期利用保育空き状況",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-08",
-    "summary": "定期利用保育空き状況についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030355/1002334/1002394.html"
-  },
-  {
-    "id": "3697c80e",
-    "title": "受診券の有効期限について　訂正のお知らせ",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-08",
-    "summary": "健診・検診受診券　有効期限の訂正について",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1042521.html"
-  },
-  {
-    "id": "f3d73474",
-    "title": "東堀切児童館 令和8年6月の行事予定",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-08",
-    "summary": "東堀切児童館 令和8年6月の行事予定についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000114/1000806/1042221.html"
-  },
-  {
-    "id": "cfc05927",
-    "title": "肝炎ウイルス検査（健診同時実施分）",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-08",
-    "summary": "肝炎ウイルス検査（健診同時実施分）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1040799.html"
-  },
-  {
-    "id": "2db03dd9",
-    "title": "健康長寿筋肉元気健康診査",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-08",
-    "summary": "健康長寿筋肉元気健康診査についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1039058.html"
-  },
-  {
-    "id": "072ae8c7",
-    "title": "健康長寿いきいき健康診査",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-08",
-    "summary": "健康長寿いきいき健康診査についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1035966.html"
-  },
-  {
-    "id": "2ce8b3de",
-    "title": "令和8年度　葛飾区基本健康診査",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-08",
-    "summary": "令和8年度　葛飾区基本健康診査についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1025708.html"
-  },
-  {
-    "id": "9b249557",
-    "title": "堀切菖蒲園",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-08",
-    "summary": "堀切菖蒲園についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1000096/1006888.html"
-  },
-  {
-    "id": "ac1e934f",
-    "title": "自慢のペットの写真を大募集！",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-08",
-    "summary": "動物愛護週間である9月24日（木曜日）～9月25日（金曜日）に、健康プラザかつしか1階で「我が家自慢のペットの写真展」を開催します！\nそこで、「我が家自慢のペットの写真展」で展示する、自慢のペットの写真を募集中です。\nご応募いただいた写真は、写真展での展示のほか、生活衛生課が作成する啓発物に活用させていただきます。\nペットの飼い主の方は、奮ってご応募ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1003399/1042407.html"
   }
 ]
