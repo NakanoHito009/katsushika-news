@@ -1,12 +1,183 @@
 [
   {
-    "id": "0294cf67",
-    "title": "第1回葛飾区スタジアム構想事業検討委員会を開催します",
+    "id": "ae8407ea",
+    "title": "障害者スポーツ指導者等派遣制度",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-12",
+    "summary": "障害者スポーツ指導者等派遣制度についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030215/1042579.html"
+  },
+  {
+    "id": "ba2c260e",
+    "title": "令和8年度会計年度任用職員（個人番号カード交付事業推進員）を募集します",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-12",
+    "summary": "令和8年度会計年度任用職員（個人番号カード交付事業推進員）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1042329.html"
+  },
+  {
+    "id": "88d43505",
+    "title": "令和8年6月12日～令和8年6月19日",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-12",
+    "summary": "令和8年6月12日～令和8年6月19日についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000047/1042210/1042213/1042215.html"
+  },
+  {
+    "id": "55fc5fa3",
+    "title": "公示送達（収納対策課）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-12",
+    "summary": "公示送達（収納対策課）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000047/1042210/1042213/index.html"
+  },
+  {
+    "id": "55adae14",
+    "title": "私立幼稚園・認定こども園（教育部分）・預かり保育",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-12",
+    "summary": "私立幼稚園・認定こども園（教育部分）・預かり保育についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1021308/1021371/1021376.html"
+  },
+  {
+    "id": "70d43137",
+    "title": "普及啓発の取組",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-12",
+    "summary": "普及啓発の取組についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1030184/1024043/1018169.html"
+  },
+  {
+    "id": "76612bbe",
+    "title": "令和8年度　東京都子育て支援員研修受講者募集",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-12",
+    "summary": "令和8年度　東京都子育て支援員研修受講者募集についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030197/1010904.html"
+  },
+  {
+    "id": "b9e223d6",
+    "title": "博物館",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-12",
+    "summary": "博物館についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/1000037/index.html"
+  },
+  {
+    "id": "64769afa",
+    "title": "広報かつしか令和8年6月15日号",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-12",
+    "summary": "広報かつしか令和8年6月15日号についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/kouho/1005537/1041613/1042556/index.html"
+  },
+  {
+    "id": "fcabb2b2",
+    "title": "9月1日採用特別支援教育指導員（会計年度任用職員）を募集します",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-12",
+    "summary": "9月1日採用特別支援教育指導員（会計年度任用職員）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1042539.html"
+  },
+  {
+    "id": "0041c100",
+    "title": "博物館専門調査員（天文担当・会計年度任用職員）を募集（令和8年9月1日採用）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-12",
+    "summary": "博物館専門調査員（天文担当・会計年度任用職員）を募集（令和8年9月1日採用）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1042449.html"
+  },
+  {
+    "id": "462e9502",
+    "title": "障害者相談支援事業所運営費補助金について",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-12",
+    "summary": "障害者相談支援事業所運営費補助金についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000053/1033154/1042226.html"
+  },
+  {
+    "id": "35dddbde",
+    "title": "令和8年度　パソコンを使った親子手づくり絵本教室",
     "category": "イベント",
     "categorySlug": "event",
-    "date": "2026-06-11",
-    "summary": "第1回葛飾区スタジアム構想事業検討委員会を開催しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000082/1042503/1042504.html"
+    "date": "2026-06-12",
+    "summary": "令和8年度　パソコンを使った親子手づくり絵本教室についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000116/1041113.html"
+  },
+  {
+    "id": "444a61ae",
+    "title": "かつしか子育てカレンダー（教育・保育）",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-12",
+    "summary": "かつしか子育てカレンダー（教育・保育）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030342/1032231.html"
+  },
+  {
+    "id": "f7000d47",
+    "title": "かつしか子育てカレンダー（面接・訪問・健診）",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-12",
+    "summary": "かつしか子育てカレンダー（面接・訪問・健診）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030342/1032133.html"
+  },
+  {
+    "id": "7be989ef",
+    "title": "障害者施設等の地域ふれあい事業（館まつり等）",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-12",
+    "summary": "障害者施設等の地域ふれあい事業（館まつり等）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000053/1030189/index.html"
+  },
+  {
+    "id": "2e34237f",
+    "title": "親子体験教室『ハンディファン・プロペラカー手作り教室～電気の安全を学ぼう～』",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-12",
+    "summary": "親子体験教室『ハンディファン・プロペラカー手作り教室～電気の安全を学ぼう～』",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1030349/1014725.html"
+  },
+  {
+    "id": "5779a82e",
+    "title": "夏休みリサイクル教室「牛乳パックを使用して作るかわいい小物入れ」",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-12",
+    "summary": "夏休みリサイクル教室「牛乳パックを使用して作るかわいい小物入れ」",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1011602.html"
+  },
+  {
+    "id": "31cd4b42",
+    "title": "障害者就労支援センター",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-06-12",
+    "summary": "障害者就労支援センターについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000053/1033430/1002269.html"
+  },
+  {
+    "id": "d203e61d",
+    "title": "第55回葛飾区子ども・子育て会議を傍聴できます",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-12",
+    "summary": "第55回葛飾区子ども・子育て会議を傍聴できますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000088/1006639/1038945.html"
   },
   {
     "id": "09ad2c88",
@@ -16,6 +187,24 @@
     "date": "2026-06-11",
     "summary": "スタジアム構想事業検討委員会についてについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/information/1000082/1042503/index.html"
+  },
+  {
+    "id": "e688fb9d",
+    "title": "児童指導員（会計年度任用職員）を募集します",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-11",
+    "summary": "会計年度任用職員（児童指導員）を募集します",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1006617.html"
+  },
+  {
+    "id": "0294cf67",
+    "title": "第1回葛飾区スタジアム構想事業検討委員会を開催します",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-11",
+    "summary": "第1回葛飾区スタジアム構想事業検討委員会を開催しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000082/1042503/1042504.html"
   },
   {
     "id": "5a0b25f6",
@@ -79,194 +268,5 @@
     "date": "2026-06-11",
     "summary": "モンチャレで1,000東京ポイントプレゼントキャンペーンについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/information/1000082/1039065.html"
-  },
-  {
-    "id": "ced47deb",
-    "title": "なつかしの名曲と映像の鑑賞会",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-11",
-    "summary": "なつかしの名曲と映像の鑑賞会についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1030298/1034648.html"
-  },
-  {
-    "id": "43f5c68a",
-    "title": "環境月間パネル展を開催します",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-11",
-    "summary": "環境月間パネル展を開催しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1023018/1032021.html"
-  },
-  {
-    "id": "71e8cef2",
-    "title": "エンジョイスポーツ2026のお知らせ（バレーボール教室）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-11",
-    "summary": "エンジョイスポーツ2026のお知らせ（バレーボール教室）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030212/1014383.html"
-  },
-  {
-    "id": "b9459f1c",
-    "title": "令和8年度第1回区長定例記者会見（令和8年5月29日）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-11",
-    "summary": "令和8年度第1回区長定例記者会見（令和8年5月29日）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kucho/1030245/1028091/1042442/1042446.html"
-  },
-  {
-    "id": "02ce5769",
-    "title": "高齢者補聴器購入費助成",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-06-11",
-    "summary": "※高齢者補聴器購入費助成※　（店舗情報更新）",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1030186/1002144/1038848.html"
-  },
-  {
-    "id": "0fabe59d",
-    "title": "「金魚展示場第7回江戸前金魚展」を開催します",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-11",
-    "summary": "「金魚展示場第7回江戸前金魚展」を開催しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/planning/1003408/1026508.html"
-  },
-  {
-    "id": "9b249557",
-    "title": "堀切菖蒲園",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-11",
-    "summary": "堀切菖蒲園についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1000096/1006888.html"
-  },
-  {
-    "id": "a93e6527",
-    "title": "新着更新情報一覧",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-11",
-    "summary": "新着更新情報一覧についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/newslist.html"
-  },
-  {
-    "id": "0db0de1b",
-    "title": "葛飾区子ども会議",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "葛飾区子ども会議についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000084/1006015/1033122/1042529/index.html"
-  },
-  {
-    "id": "dd6cc9d0",
-    "title": "教育委員会開催結果と会議録（令和7年10月から令和8年3月まで）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "教育委員会開催結果と会議録（令和7年10月から令和8年3月まで）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/kyouiku/1002491/1040105.html"
-  },
-  {
-    "id": "2dc4128c",
-    "title": "高砂地区まちづくり方針について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-11",
-    "summary": "高砂地区まちづくり方針についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/planning/1003609/1003628/1039107.html"
-  },
-  {
-    "id": "051fe9e7",
-    "title": "葛飾発　みんなでつくるSDGs人生ゲーム",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-11",
-    "summary": "葛飾発　みんなでつくるSDGs人生ゲームについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1036868.html"
-  },
-  {
-    "id": "e914cbb1",
-    "title": "一時預かり事業・病児保育事業の指導検査について",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "一時預かり事業・病児保育事業の指導検査についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1011978/1036481.html"
-  },
-  {
-    "id": "dd75f4fb",
-    "title": "母子生活支援施設の指導検査について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-11",
-    "summary": "母子生活支援施設の指導検査についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1011978/1035848.html"
-  },
-  {
-    "id": "309e182a",
-    "title": "【終了しました】第42回葛飾区スポーツ指導員養成講習会（共通科目）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-11",
-    "summary": "【終了しました】第42回葛飾区スポーツ指導員養成講習会（共通科目）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030213/1035348.html"
-  },
-  {
-    "id": "35f45869",
-    "title": "児童養護施設の指導検査について",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "児童養護施設の指導検査についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1011978/1034211.html"
-  },
-  {
-    "id": "0fa42591",
-    "title": "幼稚園の指導検査について",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "幼稚園の指導検査についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030355/1030196/1034210.html"
-  },
-  {
-    "id": "1e41faab",
-    "title": "認可外保育施設の立入調査について",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "認可外保育施設の立入調査についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1011978/1033272.html"
-  },
-  {
-    "id": "d65e1e51",
-    "title": "特定教育・保育施設の指導検査について",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "特定教育・保育施設の指導検査についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1011978/1033187.html"
-  },
-  {
-    "id": "29e11786",
-    "title": "特定地域型保育事業の指導検査について",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-06-11",
-    "summary": "特定地域型保育事業の指導検査についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1011978/1033183.html"
-  },
-  {
-    "id": "76a65c16",
-    "title": "【事業者向け】再エネ電力の利用拡大を図るため、「首都圏再エネ共同購入プロジェクト」への参加者を募集します",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-11",
-    "summary": "【事業者向け】再エネ電力の利用拡大を図るため、「首都圏再エネ共同購入プロジェクト」への参加者を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1023018/1030963.html"
   }
 ]
