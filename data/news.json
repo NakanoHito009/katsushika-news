@@ -1,5 +1,50 @@
 [
   {
+    "id": "b0e8e9a5",
+    "title": "かつしか進路フェア2026を開催します",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-28",
+    "summary": "かつしか進路フェア2026を開催しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1042475.html"
+  },
+  {
+    "id": "48e4689a",
+    "title": "東京聖栄大学連携講座2026　香りと味覚の体験シリーズ　第二部　ワークショップ「スパイスマジック！野菜・果物をおいしく変身」",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-28",
+    "summary": "東京聖栄大学連携講座2026　香りと味覚の体験シリーズ　第二部　ワークショップ「スパイスマジック！野菜・果物をおいしく変身」についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1038910.html"
+  },
+  {
+    "id": "c539f3f2",
+    "title": "葛飾区子ども発達センター施設案内",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-06-28",
+    "summary": "葛飾区子ども発達センター施設案内についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1029175/index.html"
+  },
+  {
+    "id": "5dc27469",
+    "title": "東京聖栄大学連携講座2026 香りと味覚の体験シリーズ　第一部　調理実習「スパイス香るチキン・プレート」",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-06-28",
+    "summary": "東京聖栄大学連携講座2026 香りと味覚の体験シリーズ　第一部　調理実習「スパイス香るチキン・プレート」についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1028637.html"
+  },
+  {
+    "id": "9652e22d",
+    "title": "第27回葛飾区認定製品販売会　「かつしかミライテラス」",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-06-28",
+    "summary": "第27回葛飾区認定製品販売会　「かつしかミライテラス」についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000066/1004933/1034515/1017264/1042361.html"
+  },
+  {
     "id": "d82d9142",
     "title": "7月キッズ教室「空気砲！不思議遊び♪」",
     "category": "イベント",
@@ -223,50 +268,5 @@
     "date": "2026-06-26",
     "summary": "葛飾区ワーク・ライフ・バランス推進企業の紹介（株式会社トーリツ）についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/information/1000082/1030252/1005915/1042199/1042676.html"
-  },
-  {
-    "id": "e5095a1c",
-    "title": "性の多様性講座　映画「ふたりのまま」上映＆制作者講演会",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-26",
-    "summary": "性の多様性講座　映画「ふたりのまま」上映＆制作者講演会についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1042093.html"
-  },
-  {
-    "id": "f3b1bce8",
-    "title": "葛飾区ワーク・ライフ・バランス推進企業一覧",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-26",
-    "summary": "葛飾区ワーク・ライフ・バランス推進企業一覧についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000082/1030252/1005915/1041472.html"
-  },
-  {
-    "id": "d852e488",
-    "title": "葛飾区男女平等推進審議会議事録（令和7年度）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-06-26",
-    "summary": "葛飾区男女平等推進審議会議事録（令和7年度）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000088/1006637/1040947.html"
-  },
-  {
-    "id": "c3626d68",
-    "title": "（6月27日中止）令和8年度　ふれあいスポーツジュニア・卓球（亀有）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-26",
-    "summary": "（6月27日中止）令和8年度　ふれあいスポーツジュニア・卓球（亀有）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000112/1040434.html"
-  },
-  {
-    "id": "a04a0579",
-    "title": "（6月27日亀有会場中止）そうさく教室【描いて しぼって 染めて オリジナルTシャツ】",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-06-26",
-    "summary": "（6月27日亀有会場中止）そうさく教室【描いて しぼって 染めて オリジナルTシャツ】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1039962.html"
   }
 ]
