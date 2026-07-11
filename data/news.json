@@ -1,5 +1,23 @@
 [
   {
+    "id": "6fe51af9",
+    "title": "消費生活センター リサイクルコーナー・フリーマーケットの開催について",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-07-11",
+    "summary": "消費生活センター　リサイクルコーナー・フリーマーケットの開催について",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1030175/1003400/1022731.html"
+  },
+  {
+    "id": "068c5e42",
+    "title": "リサイクルコーナーの運営（令和8年度）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-07-11",
+    "summary": "リサイクルコーナーの運営（令和8年度）",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1030175/1003400/1010245.html"
+  },
+  {
     "id": "85af43ee",
     "title": "広報かつしか令和8年7月15日号",
     "category": "区政",
@@ -250,23 +268,5 @@
     "date": "2026-07-09",
     "summary": "小松南小学校の改築についてについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1002541/1039365.html"
-  },
-  {
-    "id": "897322c6",
-    "title": "葛飾区障害者生活介護事業所　発達・生活支援員を募集します。",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-07-09",
-    "summary": "葛飾区障害者生活介護事業所　発達・生活支援員を募集します。についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1035246.html"
-  },
-  {
-    "id": "477855cc",
-    "title": "第60回葛納涼花火大会　会場図、ご観覧に関する注意について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-07-09",
-    "summary": "第60回葛納涼花火大会　会場図、ご観覧に関する注意についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1000064/1000065/1032632.html"
   }
 ]
