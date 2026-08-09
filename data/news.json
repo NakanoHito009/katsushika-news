@@ -1,5 +1,41 @@
 [
   {
+    "id": "b96363da",
+    "title": "「ごみ減量・清掃フェアかつしか」フリーマーケット出店者募集",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-08-09",
+    "summary": "「ごみ減量・清掃フェアかつしか」フリーマーケット出店者募集についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1010923/1042285.html"
+  },
+  {
+    "id": "d5857832",
+    "title": "かつしか区民大学特別講演会「国際ガールズ・デー企画（2）」チャレンジするひと　落語家　林家つる子のものがたり",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-08-09",
+    "summary": "かつしか区民大学特別講演会「国際ガールズ・デー企画（2）」チャレンジするひと　落語家　林家つる子のものがたりについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000108/1042265.html"
+  },
+  {
+    "id": "17947574",
+    "title": "そうさく教室のご案内",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-08-09",
+    "summary": "そうさく教室のご案内についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1022570.html"
+  },
+  {
+    "id": "393c6796",
+    "title": "男女平等推進センターWhat's　New",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-08-09",
+    "summary": "男女平等推進センターWhat's　Newについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000082/1030252/1005915/1005930.html"
+  },
+  {
     "id": "873a939a",
     "title": "【葛飾区役所・新小岩区民事務所】マイナンバーカードの休日交付窓口の拡大について",
     "category": "区政",
@@ -232,41 +268,5 @@
     "date": "2026-08-06",
     "summary": "配食サービスについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kenkou/1000053/1002246/1040244/1040256.html"
-  },
-  {
-    "id": "9d00ba8a",
-    "title": "葛飾区障害者生活介護事業所",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-08-06",
-    "summary": "葛飾区障害者生活介護事業所についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1000095/1006827.html"
-  },
-  {
-    "id": "cc2f8e8c",
-    "title": "スポーツ振興及び地域活性化に係る連携・協力について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-05",
-    "summary": "スポーツ振興及び地域活性化に係る連携・協力についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1043008.html"
-  },
-  {
-    "id": "857dd861",
-    "title": "家庭教育講座「元校長先生とスクールカウンセラーによる小学校ってこんなところ教室」（11月開催分）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-05",
-    "summary": "家庭教育講座「元校長先生とスクールカウンセラーによる小学校ってこんなところ教室」（11月開催分）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1032131/1032493.html"
-  },
-  {
-    "id": "764bee0a",
-    "title": "家庭教育講座「小学校ってこんなところ教室」",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-05",
-    "summary": "家庭教育講座「小学校ってこんなところ教室」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1032131/index.html"
   }
 ]
