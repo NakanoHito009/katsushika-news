@@ -1,5 +1,140 @@
 [
   {
+    "id": "9ec88f91",
+    "title": "障害者作品展2026　作品を募集します",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-08-13",
+    "summary": "障害者作品展2026　作品を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1036179.html"
+  },
+  {
+    "id": "9b081db3",
+    "title": "立石駅南口西地区第一種市街地再開発事業の施行地区となるべき区域の公告と借地権の申告について",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-08-13",
+    "summary": "立石駅南口西地区第一種市街地再開発事業の施行地区となるべき区域の公告と借地権の申告についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/planning/1003609/1003628/1042411.html"
+  },
+  {
+    "id": "e4c02d2b",
+    "title": "粗大ごみリユース情報　 有料リユース品について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-08-13",
+    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
+  },
+  {
+    "id": "58493066",
+    "title": "認知症普及啓発イベント もの忘れ予防・フェスタin葛飾",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-08-13",
+    "summary": "認知症普及啓発イベント もの忘れ予防・フェスタin葛飾についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1043184.html"
+  },
+  {
+    "id": "c8ed315c",
+    "title": "校内サポートルーム",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-08-13",
+    "summary": "校内サポートルームについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1042946/1043118.html"
+  },
+  {
+    "id": "333c4a49",
+    "title": "双葉中学校8組（チャレンジクラス）",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-08-13",
+    "summary": "双葉中学校8組（チャレンジクラス）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1042946/1042950.html"
+  },
+  {
+    "id": "8ae72981",
+    "title": "登校サポーター",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-08-13",
+    "summary": "登校サポーターについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1042946/1042949.html"
+  },
+  {
+    "id": "fe11a087",
+    "title": "令和7年度第2回葛飾区子どもの権利委員会を開催しました",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-08-13",
+    "summary": "令和7年度第2回葛飾区子どもの権利委員会を開催しましたについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000084/1006015/1033122/1037428/1042895.html"
+  },
+  {
+    "id": "0e0d8de8",
+    "title": "年齢別タイム【子ども未来プラザ鎌倉】",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-08-13",
+    "summary": "年齢別タイム【子ども未来プラザ鎌倉】についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1022292/1022293/1042643/1042652.html"
+  },
+  {
+    "id": "88d43505",
+    "title": "令和8年8月13日～令和8年8月20日",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-08-13",
+    "summary": "令和8年8月13日～令和8年8月20日についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000047/1042210/1042213/1042215.html"
+  },
+  {
+    "id": "40d5c273",
+    "title": "歯周病予防教室（歯ッピースマイル健口教室）",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-08-13",
+    "summary": "歯周病予防教室（歯ッピースマイル健口教室）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/1039456.html"
+  },
+  {
+    "id": "04ebd939",
+    "title": "感染症に係る保健所業務支援への対応人材（IHEAT要員）登録募集",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-08-13",
+    "summary": "感染症に係る保健所業務支援への対応人材（IHEAT要員）登録募集についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001797/1034460.html"
+  },
+  {
+    "id": "cd07aac3",
+    "title": "妊産婦向け講座",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-08-13",
+    "summary": "妊産婦向け講座についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000114/1011076/1029876.html"
+  },
+  {
+    "id": "e178b9b5",
+    "title": "かつしか糖尿病・慢性腎臓病アクションプラン",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-08-13",
+    "summary": "かつしか糖尿病・慢性腎臓病アクションプランについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001794/1001920.html"
+  },
+  {
+    "id": "753578df",
+    "title": "かつしかはつらつ体操",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-08-13",
+    "summary": "かつしかはつらつ体操についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1001910.html"
+  },
+  {
     "id": "de0720d9",
     "title": "子ども未来プラザ鎌倉令和8年8月",
     "category": "子育て",
@@ -133,140 +268,5 @@
     "date": "2026-08-12",
     "summary": "めぐみナーサリー（認証保育所）についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000100/1007111/1007250.html"
-  },
-  {
-    "id": "9a5e4410",
-    "title": "都市型保育園ポポラー東京金町園（認証保育所）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-12",
-    "summary": "都市型保育園ポポラー東京金町園（認証保育所）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000100/1007111/1007248.html"
-  },
-  {
-    "id": "db0d5445",
-    "title": "どんぐり保育園（認証保育所）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-12",
-    "summary": "どんぐり保育園（認証保育所）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000100/1007111/1007246.html"
-  },
-  {
-    "id": "767c4034",
-    "title": "たけのこ保育園（認証保育所）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-12",
-    "summary": "たけのこ保育園（認証保育所）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000100/1007111/1007245.html"
-  },
-  {
-    "id": "cfbbfae0",
-    "title": "アイキッズ認証保育園（認証保育所）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-12",
-    "summary": "アイキッズ認証保育園（認証保育所）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000100/1007111/1007239.html"
-  },
-  {
-    "id": "c69af645",
-    "title": "2025直売マップ　とれたて・イキイキ　葛飾元気野菜",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-12",
-    "summary": "2025直売マップ　とれたて・イキイキ　葛飾元気野菜についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000066/1004931/1034607/1005001.html"
-  },
-  {
-    "id": "e14ce47d",
-    "title": "ふれあいレクリエーション農園（ネギ）利用者募集",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-08-12",
-    "summary": "ふれあいレクリエーション農園（ネギ）利用者募集についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000107/1000634.html"
-  },
-  {
-    "id": "b65bda71",
-    "title": "統合失調症家族教室",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-08-12",
-    "summary": "統合失調症家族教室についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1001792/1042789.html"
-  },
-  {
-    "id": "478c8f92",
-    "title": "葛飾区水と緑の基本方針・実施プランを策定しました",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-12",
-    "summary": "葛飾区水と緑の基本方針・実施プランを策定しましたについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000084/1030261/1041978/1041607.html"
-  },
-  {
-    "id": "ee208efa",
-    "title": "事業概要",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-12",
-    "summary": "事業概要についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1041271/1041333.html"
-  },
-  {
-    "id": "40d5c273",
-    "title": "歯周病予防教室（歯ッピースマイル健口教室）",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-08-12",
-    "summary": "歯周病予防教室（歯ッピースマイル健口教室）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/1039456.html"
-  },
-  {
-    "id": "77ae17d6",
-    "title": "葛飾区送迎保育ステーションモデル事業のご案内",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-08-12",
-    "summary": "葛飾区送迎保育ステーションモデル事業のご案内についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1036316.html"
-  },
-  {
-    "id": "6908314f",
-    "title": "高砂地区センターまつりを開催します",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-08-12",
-    "summary": "高砂地区センターまつりを開催しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000107/1035983.html"
-  },
-  {
-    "id": "bc1c6376",
-    "title": "第42回葛飾区産業フェア～未来を紡ぐ宝箱 葛飾～",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-08-12",
-    "summary": "第42回葛飾区産業フェア～未来を紡ぐ宝箱 葛飾～についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000107/1035470.html"
-  },
-  {
-    "id": "21af9946",
-    "title": "かつしか若者未来会議",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-12",
-    "summary": "かつしか若者未来会議についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kouho/1005539/1035312.html"
-  },
-  {
-    "id": "9fa584a3",
-    "title": "東京理科大学等との産学公連携推進事業",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-12",
-    "summary": "東京理科大学等との産学公連携推進事業についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000066/1004930/1028688/index.html"
   }
 ]
