@@ -9,6 +9,69 @@
     "url": "https://www.city.katsushika.lg.jp/information/1000080/1020039/1018271.html"
   },
   {
+    "id": "0274f6b8",
+    "title": "ふるさと納税について考えてみませんか",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-08-28",
+    "summary": "ふるさと納税について考えてみませんかについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000082/1039667.html"
+  },
+  {
+    "id": "e81c1434",
+    "title": "キノコによる食中毒の防止について",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-08-28",
+    "summary": "キノコによる食中毒の防止についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1030184/1001799/1037581/1037666/1037939/1038041/1037691.html"
+  },
+  {
+    "id": "1c4fb435",
+    "title": "線状降水帯による内水氾濫（ないすいはんらん）発生時の対応",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-08-28",
+    "summary": "線状降水帯による内水氾濫（ないすいはんらん）発生時の対応についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1000063/1004031/1030351/1035616.html"
+  },
+  {
+    "id": "9fa584a3",
+    "title": "東京理科大学等との産学公連携推進事業",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-08-28",
+    "summary": "東京理科大学等との産学公連携推進事業についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000066/1004930/1028688/index.html"
+  },
+  {
+    "id": "39a970c8",
+    "title": "夢と誇りあるふるさと葛飾基金（ふるさと納税）制度",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-08-28",
+    "summary": "夢と誇りあるふるさと葛飾基金（ふるさと納税）制度についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000082/1005965.html"
+  },
+  {
+    "id": "e4c02d2b",
+    "title": "粗大ごみリユース情報　 有料リユース品について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-08-28",
+    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
+  },
+  {
+    "id": "3c0ab792",
+    "title": "粗大ごみリユース情報　 無料リユース家具について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-08-28",
+    "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
+  },
+  {
     "id": "6877dcc0",
     "title": "令和8年度 失語症サポーター養成講座",
     "category": "イベント",
@@ -205,68 +268,5 @@
     "date": "2026-08-27",
     "summary": "”野外活動器材（アウトドア用品）の貸出し”のご案内についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027558/1023473.html"
-  },
-  {
-    "id": "1db7162f",
-    "title": "奥戸総合スポーツセンター陸上競技場の利用方法が変わります（令和8年10月から）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-27",
-    "summary": "奥戸総合スポーツセンター陸上競技場の利用方法が変わります（令和8年10月から）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1042971.html"
-  },
-  {
-    "id": "aea3f43a",
-    "title": "【終了いたしました】2026かつしかスポーツ大会総合開会式　エンジョイスポーツ2026のお知らせ",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-27",
-    "summary": "【終了いたしました】2026かつしかスポーツ大会総合開会式　エンジョイスポーツ2026のお知らせについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030212/1038952.html"
-  },
-  {
-    "id": "4a0f45b1",
-    "title": "【受付終了】電力・ガス・食料品等価格高騰重点支援給付金（3万円）について",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-08-27",
-    "summary": "【受付終了】電力・ガス・食料品等価格高騰重点支援給付金（3万円）についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000055/1032109.html"
-  },
-  {
-    "id": "8cc57979",
-    "title": "道路占用許可申請のお知らせ",
-    "category": "生活情報",
-    "categorySlug": "seikatsu",
-    "date": "2026-08-27",
-    "summary": "道路占用許可申請のお知らせについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/planning/1030242/1003613/1003726.html"
-  },
-  {
-    "id": "392cce61",
-    "title": "9月キッズ教室「リスさんしっぽふりふり登ったよ」",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-08-26",
-    "summary": "9月キッズ教室「リスさんしっぽふりふり登ったよ」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000099/1002759/1031951/1036028/1043335.html"
-  },
-  {
-    "id": "6e291c28",
-    "title": "9月キッズ教室「ゴム手袋がお化けに変身♪」",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-08-26",
-    "summary": "9月キッズ教室「ゴム手袋がお化けに変身♪」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1000099/1002759/1031951/1036028/1043334.html"
-  },
-  {
-    "id": "37a95030",
-    "title": "大気環境",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-08-26",
-    "summary": "大気環境についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1003884/1003952.html"
   }
 ]
