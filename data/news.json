@@ -1,5 +1,59 @@
 [
   {
+    "id": "305fe7c5",
+    "title": "通学路の安全対策について",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-09-04",
+    "summary": "通学路の安全対策についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1043180.html"
+  },
+  {
+    "id": "805e54f1",
+    "title": "葛飾区学校給食調理業務委託の提案事業者を募集します",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-09-04",
+    "summary": "葛飾区学校給食調理業務委託の提案事業者を募集します",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005056/1018869.html"
+  },
+  {
+    "id": "2e8ad006",
+    "title": "地域の防災訓練（参加者向けページ）",
+    "category": "防災",
+    "categorySlug": "bousai",
+    "date": "2026-09-04",
+    "summary": "地域の防災訓練（参加者向けページ）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1040694/1004851.html"
+  },
+  {
+    "id": "e8350008",
+    "title": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-09-04",
+    "summary": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1002552.html"
+  },
+  {
+    "id": "e4c02d2b",
+    "title": "粗大ごみリユース情報　 有料リユース品について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-09-04",
+    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
+  },
+  {
+    "id": "3c0ab792",
+    "title": "粗大ごみリユース情報　 無料リユース家具について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-09-04",
+    "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
+  },
+  {
     "id": "49d735dc",
     "title": "中央図書館・立石図書館（令和8年度後期）ビジネス相談会",
     "category": "イベント",
@@ -207,24 +261,6 @@
     "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002045.html"
   },
   {
-    "id": "e4c02d2b",
-    "title": "粗大ごみリユース情報　 有料リユース品について",
-    "category": "生活情報",
-    "categorySlug": "seikatsu",
-    "date": "2026-09-03",
-    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
-  },
-  {
-    "id": "3c0ab792",
-    "title": "粗大ごみリユース情報　 無料リユース家具について",
-    "category": "生活情報",
-    "categorySlug": "seikatsu",
-    "date": "2026-09-03",
-    "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
-  },
-  {
     "id": "68b3b65b",
     "title": "第12回かわせみフェスティバル",
     "category": "区政",
@@ -232,41 +268,5 @@
     "date": "2026-09-02",
     "summary": "第12回かわせみフェスティバルについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1030304/1035876.html"
-  },
-  {
-    "id": "f0994c5b",
-    "title": "一時涼み所（いっときすずみどころ）を開設しています",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-09-02",
-    "summary": "一時涼み所（いっときすずみどころ）を開設していますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1030186/1002144/1028376.html"
-  },
-  {
-    "id": "22b1e4ca",
-    "title": "高齢者見守りサービス助成",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-09-02",
-    "summary": "高齢者見守りサービス助成についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1030186/1002141/1014681.html"
-  },
-  {
-    "id": "3c528073",
-    "title": "かつしかシンフォニーヒルズ（葛飾区文化会館）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-02",
-    "summary": "かつしかシンフォニーヒルズ（葛飾区文化会館）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030225/1006812.html"
-  },
-  {
-    "id": "86ca8d68",
-    "title": "救急医療情報キットの給付",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-09-02",
-    "summary": "救急医療情報キットの給付についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1030186/1002141/1002177.html"
   }
 ]
