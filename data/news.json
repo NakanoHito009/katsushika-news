@@ -1,5 +1,14 @@
 [
   {
+    "id": "3db5d575",
+    "title": "区民相談のご案内",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-05",
+    "summary": "区民相談のご案内についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/kouho/1005539/1005700.html"
+  },
+  {
     "id": "305fe7c5",
     "title": "通学路の安全対策について",
     "category": "子育て",
@@ -259,14 +268,5 @@
     "date": "2026-09-03",
     "summary": "休日・夜間応急診療のご案内についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002045.html"
-  },
-  {
-    "id": "68b3b65b",
-    "title": "第12回かわせみフェスティバル",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-09-02",
-    "summary": "第12回かわせみフェスティバルについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1030304/1035876.html"
   }
 ]
