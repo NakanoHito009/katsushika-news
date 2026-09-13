@@ -1,5 +1,32 @@
 [
   {
+    "id": "f0e8fe4d",
+    "title": "創業支援",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-13",
+    "summary": "創業支援についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1030233/1034404.html"
+  },
+  {
+    "id": "b13d2b7d",
+    "title": "水元図書館の休館について",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-13",
+    "summary": "水元図書館の休館についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1030208/1002754/1043095.html"
+  },
+  {
+    "id": "4978b7b5",
+    "title": "校庭遊び場開放、スポーツ開放",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-09-13",
+    "summary": "校庭遊び場開放、スポーツ開放についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002478/1002740.html"
+  },
+  {
     "id": "005c65f0",
     "title": "にこわ新小岩まつり2026",
     "category": "イベント",
@@ -241,32 +268,5 @@
     "date": "2026-09-11",
     "summary": "令和8年度の成人歯科健康診査（ご案内）についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1001810.html"
-  },
-  {
-    "id": "5a73dfa4",
-    "title": "サークル活動体験会のご案内（柴又）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-11",
-    "summary": "サークル活動体験会のご案内（柴又）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1033339.html"
-  },
-  {
-    "id": "1e37cb2e",
-    "title": "令和8年度葛飾区里親制度説明会",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-10",
-    "summary": "令和8年度葛飾区里親制度説明会についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1034372.html"
-  },
-  {
-    "id": "39deb3cf",
-    "title": "令和8年度　読み聞かせボランティアスキルアップ講座（絵本を知る編）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-10",
-    "summary": "令和8年度　読み聞かせボランティアスキルアップ講座（絵本を知る編）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000116/1043177.html"
   }
 ]
