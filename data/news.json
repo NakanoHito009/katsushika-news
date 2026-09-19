@@ -1,5 +1,32 @@
 [
   {
+    "id": "6fe51af9",
+    "title": "消費生活センター リサイクルコーナー・フリーマーケットの開催について",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-09-19",
+    "summary": "消費生活センター　リサイクルコーナー・フリーマーケットの開催について",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1030175/1003400/1022731.html"
+  },
+  {
+    "id": "068c5e42",
+    "title": "リサイクルコーナーの運営（令和8年度）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-19",
+    "summary": "リサイクルコーナーの運営（令和8年度）",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1030175/1003400/1010245.html"
+  },
+  {
+    "id": "51962015",
+    "title": "【中止】立石図書館 認知症講演会　「脳科学から見た認知症」～認知症になってもその人らしさは失われない～",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-09-19",
+    "summary": "【中止】立石図書館 認知症講演会　「脳科学から見た認知症」～認知症になってもその人らしさは失われない～についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000116/1001253/1039069.html"
+  },
+  {
     "id": "87ceca2f",
     "title": "柴又児童館令和8年9月の行事予定",
     "category": "子育て",
@@ -241,32 +268,5 @@
     "date": "2026-09-17",
     "summary": "【シニア向け】生きがい支援講座「シニアのための英語講座」全8回についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1000106/1034444.html"
-  },
-  {
-    "id": "1f686eab",
-    "title": "生きがい支援講座「シニアだって踊りたい！ダンス＆ストレッチ」 全8回",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-09-17",
-    "summary": "生きがい支援講座「シニアだって踊りたい！ダンス＆ストレッチ」 全8回についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1031183.html"
-  },
-  {
-    "id": "af505058",
-    "title": "（3回連続講座）かつしかの伝統工芸「手描き友禅 タペストリーづくり」",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-17",
-    "summary": "（3回連続講座）かつしかの伝統工芸「手描き友禅 タペストリーづくり」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1027222.html"
-  },
-  {
-    "id": "393c6796",
-    "title": "男女平等推進センターWhat's　New",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-09-17",
-    "summary": "男女平等推進センターWhat's　Newについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000082/1030252/1005915/1005930.html"
   }
 ]
