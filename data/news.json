@@ -1,5 +1,14 @@
 [
   {
+    "id": "5f86ca7f",
+    "title": "科学教育センター「未来わくわく館」",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-09-20",
+    "summary": "科学教育センター「未来わくわく館」についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1006933.html"
+  },
+  {
     "id": "6fe51af9",
     "title": "消費生活センター リサイクルコーナー・フリーマーケットの開催について",
     "category": "イベント",
@@ -18,15 +27,6 @@
     "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1030175/1003400/1010245.html"
   },
   {
-    "id": "51962015",
-    "title": "【中止】立石図書館 認知症講演会　「脳科学から見た認知症」～認知症になってもその人らしさは失われない～",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-19",
-    "summary": "【中止】立石図書館 認知症講演会　「脳科学から見た認知症」～認知症になってもその人らしさは失われない～についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000116/1001253/1039069.html"
-  },
-  {
     "id": "87ceca2f",
     "title": "柴又児童館令和8年9月の行事予定",
     "category": "子育て",
@@ -43,15 +43,6 @@
     "date": "2026-09-18",
     "summary": "決定！！カツビブ　オンライン「頂点ノ書」についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1000116/1042006.html"
-  },
-  {
-    "id": "1402c571",
-    "title": "【延期】あべ弘士さん講演会「ちきゅうは動物でいっぱい」",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-18",
-    "summary": "【延期】あべ弘士さん講演会「ちきゅうは動物でいっぱい」についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000116/1038891.html"
   },
   {
     "id": "de38bb7b",
@@ -268,5 +259,14 @@
     "date": "2026-09-17",
     "summary": "【シニア向け】生きがい支援講座「シニアのための英語講座」全8回についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1000106/1034444.html"
+  },
+  {
+    "id": "1f686eab",
+    "title": "生きがい支援講座「シニアだって踊りたい！ダンス＆ストレッチ」 全8回",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-09-17",
+    "summary": "生きがい支援講座「シニアだって踊りたい！ダンス＆ストレッチ」 全8回についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1031183.html"
   }
 ]
