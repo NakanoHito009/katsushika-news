@@ -1,5 +1,50 @@
 [
   {
+    "id": "e0b5a3f7",
+    "title": "公共工事等発注予定（令和8年9月24日）",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-09-23",
+    "summary": "公共工事等発注予定（令和8年9月24日）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1043519.html"
+  },
+  {
+    "id": "9fa584a3",
+    "title": "東京理科大学等との産学公連携推進事業",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-23",
+    "summary": "東京理科大学等との産学公連携推進事業についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000066/1004930/1028688/index.html"
+  },
+  {
+    "id": "256fcfe0",
+    "title": "令和8年度　長寿歯科健康診査（ご案内）",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-09-23",
+    "summary": "令和8年度　長寿歯科健康診査（ご案内）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1001809.html"
+  },
+  {
+    "id": "17947574",
+    "title": "そうさく教室のご案内",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-09-23",
+    "summary": "そうさく教室のご案内についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1022570.html"
+  },
+  {
+    "id": "26c5f64a",
+    "title": "マイナポータルによるオンラインでの転出届（引越しワンストップサービス）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-23",
+    "summary": "マイナポータルによるオンラインでの転出届（引越しワンストップサービス）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001401/1030654.html"
+  },
+  {
     "id": "2262e135",
     "title": "区役所正面玄関前で献血を実施します",
     "category": "イベント",
@@ -223,50 +268,5 @@
     "date": "2026-09-18",
     "summary": "令和8年度　障がい者水泳教室についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030215/1013065.html"
-  },
-  {
-    "id": "36567a69",
-    "title": "葛飾区震災復興マニュアル（都市・住宅編）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-09-18",
-    "summary": "葛飾区震災復興マニュアル（都市・住宅編）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1000063/1004029/1030356/1004800.html"
-  },
-  {
-    "id": "028de2f4",
-    "title": "消費生活展で「フードドライブ」を実施します",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-18",
-    "summary": "消費生活展で「フードドライブ」を実施しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000107/1043308.html"
-  },
-  {
-    "id": "ce8df257",
-    "title": "葛飾区役所庁内食堂で学校給食メニューが食べられます（令和8年度）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-18",
-    "summary": "葛飾区役所庁内食堂で学校給食メニューが食べられます（令和8年度）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002476/1027011/1042042/index.html"
-  },
-  {
-    "id": "805e54f1",
-    "title": "葛飾区学校給食調理業務委託の提案事業者を募集します",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-18",
-    "summary": "葛飾区学校給食調理業務委託の提案事業者を募集します",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005056/1018869.html"
-  },
-  {
-    "id": "83cd96e5",
-    "title": "医療技術職の免許申請について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-09-18",
-    "summary": "医療技術職の免許申請についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007374/1007413/1007536.html"
   }
 ]
