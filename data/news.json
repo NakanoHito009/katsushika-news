@@ -1,5 +1,77 @@
 [
   {
+    "id": "aacc0fe5",
+    "title": "WEB予約（クレジットカード決済）の取消について",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-09-25",
+    "summary": "WEB予約（クレジットカード決済）の取消についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1006723/1030222/1025551/1043551.html"
+  },
+  {
+    "id": "3db5d575",
+    "title": "区民相談のご案内",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-25",
+    "summary": "区民相談のご案内についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/kouho/1005539/1005700.html"
+  },
+  {
+    "id": "bdf757e2",
+    "title": "例月出納検査",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-25",
+    "summary": "例月出納検査についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000081/1005901/1005908.html"
+  },
+  {
+    "id": "256fcfe0",
+    "title": "令和8年度　長寿歯科健康診査（ご案内）",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-09-25",
+    "summary": "令和8年度　長寿歯科健康診査（ご案内）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001788/1001809.html"
+  },
+  {
+    "id": "8c0cacf6",
+    "title": "令和8年10月28日（お花茶屋）　認知症サポーター養成講座",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-09-25",
+    "summary": "令和8年10月28日（お花茶屋）　認知症サポーター養成講座についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1032371/1043625.html"
+  },
+  {
+    "id": "b3cbd97d",
+    "title": "幸田児童館令和8年10月の行事予定",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-09-25",
+    "summary": "幸田児童館令和8年10月の行事予定についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000114/1000780/1043395.html"
+  },
+  {
+    "id": "32a2dbd2",
+    "title": "年齢別タイム【子ども未来プラザ鎌倉】",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-09-25",
+    "summary": "年齢別タイム【子ども未来プラザ鎌倉】についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1022292/1022293/1043374/1043383.html"
+  },
+  {
+    "id": "5f86ca7f",
+    "title": "科学教育センター「未来わくわく館」",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-09-25",
+    "summary": "科学教育センター「未来わくわく館」についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030224/1006933.html"
+  },
+  {
     "id": "d3e91964",
     "title": "高砂児童館令和8年10月の行事予定",
     "category": "子育て",
@@ -196,77 +268,5 @@
     "date": "2026-09-24",
     "summary": "☆給食体験☆もぐもぐランチ【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043299.html"
-  },
-  {
-    "id": "e6ba9c47",
-    "title": "10月から申し込みが始まる乳幼児親子向け11月の行事・講座【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "10月から申し込みが始まる乳幼児親子向け11月の行事・講座【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043298.html"
-  },
-  {
-    "id": "eeef7088",
-    "title": "年齢別タイム【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "年齢別タイム【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043297.html"
-  },
-  {
-    "id": "036217e9",
-    "title": "10月の乳幼児親子向け行事・講座【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "10月の乳幼児親子向け行事・講座【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043296.html"
-  },
-  {
-    "id": "5ad030c9",
-    "title": "10月の産前産後ママのための講座【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "10月の産前産後ママのための講座【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043295.html"
-  },
-  {
-    "id": "923968ee",
-    "title": "11月の産前産後ママのための講座【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "11月の産前産後ママのための講座【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043294.html"
-  },
-  {
-    "id": "69002939",
-    "title": "児童館＆子ども未来プラザ産前産後講座",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "児童館＆子ども未来プラザ産前産後講座についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043293.html"
-  },
-  {
-    "id": "b5e6bc34",
-    "title": "親子健康手帳・マタニティパス・ゆりかご面接について【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "親子健康手帳・マタニティパス・ゆりかご面接について【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043292.html"
-  },
-  {
-    "id": "71c34352",
-    "title": "すくすく広場【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "すくすく広場【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043291.html"
   }
 ]
