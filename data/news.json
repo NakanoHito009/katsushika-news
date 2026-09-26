@@ -1,5 +1,23 @@
 [
   {
+    "id": "d7b849f2",
+    "title": "うたって深呼吸 音楽教室",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-09-26",
+    "summary": "うたって深呼吸 音楽教室についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000106/1012585.html"
+  },
+  {
+    "id": "6b01ed7d",
+    "title": "公害健康被害補償制度　その他の手続き",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-09-26",
+    "summary": "公害健康被害補償制度　その他の手続きについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001791/1001852.html"
+  },
+  {
     "id": "aacc0fe5",
     "title": "WEB予約（クレジットカード決済）の取消について",
     "category": "イベント",
@@ -250,23 +268,5 @@
     "date": "2026-09-24",
     "summary": "あそびの広場【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043301.html"
-  },
-  {
-    "id": "ca4f62de",
-    "title": "☆いっとき預かり☆ぱんだ",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-09-24",
-    "summary": "☆いっとき預かり☆ぱんだについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043300.html"
-  },
-  {
-    "id": "c4431394",
-    "title": "☆給食体験☆もぐもぐランチ【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "☆給食体験☆もぐもぐランチ【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043299.html"
   }
 ]
