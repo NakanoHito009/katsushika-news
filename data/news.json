@@ -1,5 +1,41 @@
 [
   {
+    "id": "eda0f567",
+    "title": "令和9年度予算編成過程の公表",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-27",
+    "summary": "令和9年度予算編成過程の公表についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000085/1006293/1043518.html"
+  },
+  {
+    "id": "01f29660",
+    "title": "予算",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-27",
+    "summary": "予算についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000085/1006293/index.html"
+  },
+  {
+    "id": "d771b3b4",
+    "title": "戸籍に氏名の振り仮名が記載されます",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-09-27",
+    "summary": "戸籍に氏名の振り仮名が記載されますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001400/1038570.html"
+  },
+  {
+    "id": "f1648397",
+    "title": "かつしかスポーツフェスティバル2026を開催します！",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-09-27",
+    "summary": "かつしかスポーツフェスティバル2026を開催します！についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030213/1011463.html"
+  },
+  {
     "id": "d7b849f2",
     "title": "うたって深呼吸 音楽教室",
     "category": "イベント",
@@ -232,41 +268,5 @@
     "date": "2026-09-24",
     "summary": "10月から申込みが始まる11月の乳幼児親子向けの行事・講座【子ども未来プラザ西新小岩】についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1022292/1028896/1043259/1043322.html"
-  },
-  {
-    "id": "fce2c6ee",
-    "title": "小菅児童館令和8年10月の行事予定",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "小菅児童館令和8年10月の行事予定についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000114/1000803/1043321.html"
-  },
-  {
-    "id": "a4590407",
-    "title": "10月から申込みが始まる11月の産前産後講座【子ども未来プラザ西新小岩】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "10月から申込みが始まる11月の産前産後講座【子ども未来プラザ西新小岩】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1028896/1043259/1043311.html"
-  },
-  {
-    "id": "abf172d4",
-    "title": "まなびの広場【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "まなびの広場【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043302.html"
-  },
-  {
-    "id": "1b1cf206",
-    "title": "あそびの広場【子ども未来プラザ東四つ木】",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-09-24",
-    "summary": "あそびの広場【子ども未来プラザ東四つ木】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1022292/1033846/1043289/1043301.html"
   }
 ]
