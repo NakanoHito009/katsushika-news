@@ -1,5 +1,212 @@
 [
   {
+    "id": "9cd877ff",
+    "title": "第37回かつしかボランティアまつりで「フードドライブ」を実施します",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-10-07",
+    "summary": "第37回かつしかボランティアまつりで「フードドライブ」を実施しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1043531.html"
+  },
+  {
+    "id": "d3babe68",
+    "title": "税務事務における特定個人情報保護評価書についてご意見をお寄せください",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "税務事務における特定個人情報保護評価書についてご意見をお寄せくださいについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000047/1001464/1043391.html"
+  },
+  {
+    "id": "f585d5fc",
+    "title": "【受付終了】寅さんサミット2026　～ご協賛のおねがい～",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "【受付終了】寅さんサミット2026　～ご協賛のおねがい～についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1000064/1030204/1020962/1032510.html"
+  },
+  {
+    "id": "2d3ccf3c",
+    "title": "ゼロエミッションかつしか宣言",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "「2050年までに温室効果ガスの排出量実質ゼロ」をめざすことを宣言しました。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1023018/1023031.html"
+  },
+  {
+    "id": "83cd96e5",
+    "title": "医療従事者等の免許申請について",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "医療従事者等の免許申請についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007374/1007413/1007536.html"
+  },
+  {
+    "id": "2061c906",
+    "title": "葛飾区のごみ量・資源量の実績",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-10-07",
+    "summary": "葛飾区のごみ量・資源量の実績についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000083/1005976/1005992.html"
+  },
+  {
+    "id": "e4c02d2b",
+    "title": "粗大ごみリユース情報　 有料リユース品について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-10-07",
+    "summary": "粗大ごみリユース情報　 有料リユース品についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001576.html"
+  },
+  {
+    "id": "3c0ab792",
+    "title": "粗大ごみリユース情報　 無料リユース家具について",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-10-07",
+    "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
+  },
+  {
+    "id": "60efc58e",
+    "title": "「3つのR」はごみ減量のキーワード",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-10-07",
+    "summary": "「3つのR」はごみ減量のキーワードについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001568.html"
+  },
+  {
+    "id": "47548ec8",
+    "title": "教育委員会開催結果と会議録（令和8年4月から）",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-10-07",
+    "summary": "教育委員会開催結果と会議録（令和8年4月から）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/kyouiku/1002491/1041999.html"
+  },
+  {
+    "id": "70a5dd29",
+    "title": "介護保険　福祉用具購入費受領委任払い制度について",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-10-07",
+    "summary": "介護保険　福祉用具購入費受領委任払い制度についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007375/1013415.html"
+  },
+  {
+    "id": "4ea75969",
+    "title": "介護保険　住宅改修費申請書等",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-10-07",
+    "summary": "介護保険　住宅改修費申請書等についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007375/1007565.html"
+  },
+  {
+    "id": "28fb4c56",
+    "title": "教育委員会開催予定",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-10-07",
+    "summary": "教育委員会開催予定についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/kyouiku/1002488.html"
+  },
+  {
+    "id": "73cec50d",
+    "title": "AIチャットボット試行運用開始しました！",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "AIチャットボット試行運用開始しました！についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/kouho/1043714.html"
+  },
+  {
+    "id": "595cdaf5",
+    "title": "地域スポーツクラブイベントのご紹介",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-10-07",
+    "summary": "地域スポーツクラブイベントのご紹介についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030213/1043716.html"
+  },
+  {
+    "id": "bc1c6376",
+    "title": "第42回葛飾区産業フェア～未来を紡ぐ宝箱 葛飾～",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-10-07",
+    "summary": "第42回葛飾区産業フェア～未来を紡ぐ宝箱 葛飾～についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1035470.html"
+  },
+  {
+    "id": "b13ee9c4",
+    "title": "クラウドファンディングで寄附募集中です",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "クラウドファンディングで寄附募集中ですについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000082/1033402/1033403.html"
+  },
+  {
+    "id": "23c9c519",
+    "title": "電動キックボードの安全利用",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "電動キックボードの安全利用についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/planning/1030243/1003615/1033011.html"
+  },
+  {
+    "id": "f0534260",
+    "title": "かつしか健康食育フェア　2026",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-10-07",
+    "summary": "かつしか健康食育フェア　2026についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1030413.html"
+  },
+  {
+    "id": "66e8d2b7",
+    "title": "第13回かつしかふれあいRUNフェスタ2027",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "第13回かつしかふれあいRUNフェスタ2027についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1026640.html"
+  },
+  {
+    "id": "59a80799",
+    "title": "環境衛生関係施設一覧表",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "環境衛生関係施設一覧表についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007374/1007411/1026096.html"
+  },
+  {
+    "id": "0ef88169",
+    "title": "麻薬小売業者の届（年間届）・訂正願",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-07",
+    "summary": "麻薬小売業者の届（年間届）・訂正願についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007374/1007412/1007492/1007522.html"
+  },
+  {
+    "id": "bbe69b3c",
+    "title": "交通事故を防ぎましょう",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-10-07",
+    "summary": "交通事故を防ぎましょうについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/planning/1030243/1003615/1003748.html"
+  },
+  {
     "id": "edd00f7f",
     "title": "公共工事等発注予定（令和8年10月7日）",
     "category": "生活情報",
@@ -61,212 +268,5 @@
     "date": "2026-10-06",
     "summary": "休日診療歯科当番医案内　11月分についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002048.html"
-  },
-  {
-    "id": "bbc2ff8a",
-    "title": "休日診療医科当番医案内 11月分",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-10-06",
-    "summary": "休日診療医科当番医案内 11月分についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002046.html"
-  },
-  {
-    "id": "2d199fa3",
-    "title": "休日・夜間応急診療のご案内",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-10-06",
-    "summary": "休日・夜間応急診療のご案内についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/1002045.html"
-  },
-  {
-    "id": "1b721518",
-    "title": "特派員が行く！（令和8年度）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-06",
-    "summary": "特派員が行く！（令和8年度）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kouho/1042423/1042887.html"
-  },
-  {
-    "id": "fde13dcd",
-    "title": "中川かわまち左岸公園",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-10-06",
-    "summary": "中川かわまち左岸公園についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1000096/1043687.html"
-  },
-  {
-    "id": "e2b34a65",
-    "title": "第3回葛飾区スタジアム構想事業検討委員会（令和8年9月1日開催）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-10-06",
-    "summary": "第3回葛飾区スタジアム構想事業検討委員会（令和8年9月1日開催）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000082/1042503/1043453.html"
-  },
-  {
-    "id": "fdc2ee15",
-    "title": "スタジアム構想事業アンケートを実施しました（受付終了）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-06",
-    "summary": "スタジアム構想事業アンケートを実施しました（受付終了）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000082/1042503/1043113.html"
-  },
-  {
-    "id": "cc2f8e8c",
-    "title": "スポーツ振興及び地域活性化に係る連携・協力について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-06",
-    "summary": "スポーツ振興及び地域活性化に係る連携・協力についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1043008.html"
-  },
-  {
-    "id": "b4bf2ae1",
-    "title": "新小岩一丁目公園（仮称）整備事業通信",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-06",
-    "summary": "新小岩一丁目公園（仮称）整備事業通信についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/planning/1003408/1042139/1042141.html"
-  },
-  {
-    "id": "86f27f0e",
-    "title": "堀切防災まつり",
-    "category": "防災",
-    "categorySlug": "bousai",
-    "date": "2026-10-06",
-    "summary": "堀切防災まつりについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000107/1039942.html"
-  },
-  {
-    "id": "2943954b",
-    "title": "【参加無料！申込不要！】ユニすぽカーニバルinかつしか【11月7日開催】",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-10-06",
-    "summary": "【参加無料！申込不要！】ユニすぽカーニバルinかつしか【11月7日開催】についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030213/1035526.html"
-  },
-  {
-    "id": "5f60e689",
-    "title": "葛飾区ゆかりのトップアスリートを応援しよう！（新着情報）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-06",
-    "summary": "葛飾区ゆかりのトップアスリートを応援しよう！（新着情報）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1021213.html"
-  },
-  {
-    "id": "f7efaf18",
-    "title": "犬と散歩ができる公園",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-06",
-    "summary": "犬と散歩ができる公園についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/planning/1003408/1003557.html"
-  },
-  {
-    "id": "873a939a",
-    "title": "土日も利用可能！マイナンバーカードの受取・電子証明書更新・暗証番号再設定ができます",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-05",
-    "summary": "土日も利用可能！マイナンバーカードの受取・電子証明書更新・暗証番号再設定ができますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000046/1001402/1041280.html"
-  },
-  {
-    "id": "de7ace9b",
-    "title": "世帯と人口（令和8年）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-05",
-    "summary": "世帯と人口（令和8年）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000083/1005977/1038024/1040886.html"
-  },
-  {
-    "id": "3edabd86",
-    "title": "ケアリーバー（社会的養護経験者）への支援",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-10-05",
-    "summary": "ケアリーバー（社会的養護経験者）への支援についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1023387/1038571.html"
-  },
-  {
-    "id": "29a6d50b",
-    "title": "区立幼稚園の入園手続（令和9年度新入園児募集）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-10-05",
-    "summary": "区立幼稚園の入園手続（令和9年度新入園児募集）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030355/1030196/1002338/1027191.html"
-  },
-  {
-    "id": "150978b8",
-    "title": "おくやみコーナー・おくやみハンドブック",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-05",
-    "summary": "おくやみコーナー・おくやみハンドブックについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000046/1025399/index.html"
-  },
-  {
-    "id": "411de789",
-    "title": "喫煙禁止区域の指定について",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-05",
-    "summary": "喫煙禁止区域の指定についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000084/1030260/1025304.html"
-  },
-  {
-    "id": "3db5d575",
-    "title": "区民相談のご案内",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-05",
-    "summary": "区民相談のご案内についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kouho/1005539/1005700.html"
-  },
-  {
-    "id": "62f4b31d",
-    "title": "相談実績",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-10-05",
-    "summary": "相談実績についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003786/1003821.html"
-  },
-  {
-    "id": "e8350008",
-    "title": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-10-05",
-    "summary": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1002552.html"
-  },
-  {
-    "id": "35c12fd8",
-    "title": "令和8年度全国ひとり親世帯等調査",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-10-05",
-    "summary": "令和8年度全国ひとり親世帯等調査についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002341/1043686.html"
-  },
-  {
-    "id": "529073b8",
-    "title": "【中央図書館】秋の読書週間特別イベント",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-10-05",
-    "summary": "【中央図書館】秋の読書週間特別イベントについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/tourism/1030208/1002754/1043455.html"
   }
 ]
