@@ -1,5 +1,32 @@
 [
   {
+    "id": "e8350008",
+    "title": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-10-18",
+    "summary": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1002552.html"
+  },
+  {
+    "id": "74b19a74",
+    "title": "廃棄物管理責任者講習会",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-17",
+    "summary": "廃棄物管理責任者講習会についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001537/1024296.html"
+  },
+  {
+    "id": "732cd52c",
+    "title": "防鳥ネット・資源回収用具の無償交付",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-10-17",
+    "summary": "防鳥ネット・資源回収用具の無償交付についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001535/1001661.html"
+  },
+  {
     "id": "6fe51af9",
     "title": "消費生活センター  リサイクルコーナー・フリーマーケットの開催について",
     "category": "イベント",
@@ -90,15 +117,6 @@
     "url": "https://www.city.katsushika.lg.jp/information/1000085/1006292/1043643.html"
   },
   {
-    "id": "e8350008",
-    "title": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-10-16",
-    "summary": "区立幼稚園・小中学校臨時休業情報（インフルエンザ・新型コロナウイルス感染症等）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1000057/1002475/1002552.html"
-  },
-  {
     "id": "e4c02d2b",
     "title": "粗大ごみリユース情報　 有料リユース品について",
     "category": "生活情報",
@@ -115,15 +133,6 @@
     "date": "2026-10-16",
     "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
-  },
-  {
-    "id": "7adf7150",
-    "title": "東新小岩運動場の敷地活用についての住民説明会を開催いたします。（令和8年10月18日開催）",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-10-16",
-    "summary": "東新小岩運動場の敷地活用についての住民説明会を開催いたします。（令和8年10月18日開催）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/1000082/1043200.html"
   },
   {
     "id": "1dfb46a3",
@@ -259,14 +268,5 @@
     "date": "2026-10-15",
     "summary": "空間放射線量の定点測定結果についてについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1003884/houshasen/1004080.html"
-  },
-  {
-    "id": "4e9f29a6",
-    "title": "「いじめ防止―大人の本気を教室に届ける講演会」開催のお知らせ",
-    "category": "子育て",
-    "categorySlug": "kosodate",
-    "date": "2026-10-15",
-    "summary": "「いじめ防止―大人の本気を教室に届ける講演会」開催のお知らせについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kosodate/1002752/1027554/1043768.html"
   }
 ]
