@@ -1,5 +1,86 @@
 [
   {
+    "id": "71688269",
+    "title": "令和8年度　地域展覧会「新展」の開催について",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-11-13",
+    "summary": "令和8年度　地域展覧会「新展」の開催についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1033489.html"
+  },
+  {
+    "id": "556782b8",
+    "title": "区民借上保養施設 利用案内（令和8年4月1日宿泊利用分からはこちら）",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-11-13",
+    "summary": "区民借上保養施設 利用案内（令和8年4月1日宿泊利用分からはこちら）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030225/1000098/1006943/1006975.html"
+  },
+  {
+    "id": "1e41faab",
+    "title": "認可外保育施設の立入調査について",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-11-13",
+    "summary": "認可外保育施設の立入調査についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1011978/1033272.html"
+  },
+  {
+    "id": "b885cb67",
+    "title": "かつしかごみ減量・リサイクル推進協議会",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-11-13",
+    "summary": "かつしかごみ減量・リサイクル推進協議会についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001599.html"
+  },
+  {
+    "id": "a097ed20",
+    "title": "区役所の取り組み",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-11-13",
+    "summary": "区役所の取り組みについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000082/index.html"
+  },
+  {
+    "id": "1b721518",
+    "title": "特派員が行く！（令和8年度）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-11-13",
+    "summary": "特派員が行く！（令和8年度）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/kouho/1042423/1042887.html"
+  },
+  {
+    "id": "668c5fea",
+    "title": "第2回かつしか省エネ・再エネ健康住宅普及促進イベント",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-11-13",
+    "summary": "第2回かつしか省エネ・再エネ健康住宅普及促進イベントについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1044046.html"
+  },
+  {
+    "id": "30bc2a8f",
+    "title": "居宅介護支援事業所単位で抽出するケアプラン検証等について",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-11-13",
+    "summary": "居宅介護支援事業所単位で抽出するケアプラン検証等についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000051/1030337/1041422.html"
+  },
+  {
+    "id": "ae073d17",
+    "title": "【葛飾区若者相談講演会】ひきこもり当事者の将来を考える～親亡き後のお金と制度の話～",
+    "category": "イベント",
+    "categorySlug": "event",
+    "date": "2026-11-13",
+    "summary": "【葛飾区若者相談講演会】ひきこもり当事者の将来を考える～親亡き後のお金と制度の話～についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000108/1022609.html"
+  },
+  {
     "id": "38f12ae6",
     "title": "健康づくり推進員とフレイル予防を",
     "category": "福祉",
@@ -7,15 +88,6 @@
     "date": "2026-11-12",
     "summary": "健康づくり推進員とフレイル予防をについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/event/1000106/1043774.html"
-  },
-  {
-    "id": "1b721518",
-    "title": "特派員が行く！（令和8年度）",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "特派員が行く！（令和8年度）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kouho/1042423/1042887.html"
   },
   {
     "id": "3321cdaa",
@@ -196,77 +268,5 @@
     "date": "2026-11-12",
     "summary": "お薬バッグで健康管理をしましょう！についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001690/1021058.html"
-  },
-  {
-    "id": "9a657558",
-    "title": "区民と区長との意見交換会",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "区民と区長との意見交換会についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/information/kouho/1005539/1014330.html"
-  },
-  {
-    "id": "70a5dd29",
-    "title": "介護保険　福祉用具購入費受領委任払い制度について",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-11-12",
-    "summary": "介護保険　福祉用具購入費受領委任払い制度についてについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007375/1013415.html"
-  },
-  {
-    "id": "25d27352",
-    "title": "介護保険　福祉用具購入費支給申請書",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-11-12",
-    "summary": "介護保険　福祉用具購入費支給申請書についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/online/1007359/1030292/1007375/1007566.html"
-  },
-  {
-    "id": "c6d02a52",
-    "title": "区民農園",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-11-12",
-    "summary": "区民農園についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1000102/1007332.html"
-  },
-  {
-    "id": "9d00ba8a",
-    "title": "葛飾区障害者生活介護事業所",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-11-12",
-    "summary": "葛飾区障害者生活介護事業所についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1000095/1006827.html"
-  },
-  {
-    "id": "9cffecc2",
-    "title": "特別障害給付金",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-11-12",
-    "summary": "特別障害給付金についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001692/1001785.html"
-  },
-  {
-    "id": "01c99e77",
-    "title": "死亡一時金",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "死亡一時金についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001692/1001782.html"
-  },
-  {
-    "id": "bfb90dd0",
-    "title": "国民年金加入や喪失手続き",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "国民年金加入や喪失手続きについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001692/1001772.html"
   }
 ]
