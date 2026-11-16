@@ -1,5 +1,41 @@
 [
   {
+    "id": "4298f1c3",
+    "title": "第18回水元かわせみの里フォトコンテスト",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-11-15",
+    "summary": "第18回水元かわせみの里フォトコンテストについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1000062/1030304/1023066.html"
+  },
+  {
+    "id": "bdca747b",
+    "title": "防災庁より事前防災徹底のための緊急要請について",
+    "category": "防災",
+    "categorySlug": "bousai",
+    "date": "2026-11-15",
+    "summary": "防災庁より事前防災徹底のための緊急要請についてについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1000063/1044093/index.html"
+  },
+  {
+    "id": "39e1ce49",
+    "title": "葛飾区ごみ収集作業員（会計年度任用職員）（1月）の募集",
+    "category": "生活情報",
+    "categorySlug": "seikatsu",
+    "date": "2026-11-15",
+    "summary": "葛飾区ごみ収集作業員（会計年度任用職員）（1月）の募集についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1035831/index.html"
+  },
+  {
+    "id": "93cbf25e",
+    "title": "HIV即日検査・梅毒検査・相談",
+    "category": "福祉",
+    "categorySlug": "fukushi",
+    "date": "2026-11-15",
+    "summary": "HIV即日検査・梅毒検査・相談についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001797/1001973.html"
+  },
+  {
     "id": "83e3d8ca",
     "title": "かつしかフードフェスタ 2026",
     "category": "区政",
@@ -232,41 +268,5 @@
     "date": "2026-11-12",
     "summary": "葛飾区地域密着型介護事業所職員宿舎借上支援事業についての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/business/1000011/1000069/1005251/1036899.html"
-  },
-  {
-    "id": "f0e8fe4d",
-    "title": "創業支援",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "創業支援についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1030233/1034404.html"
-  },
-  {
-    "id": "ed1f53f6",
-    "title": "広告入り窓口封筒の作成事業者を募集します",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "広告入り窓口封筒の作成事業者を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005056/1033524.html"
-  },
-  {
-    "id": "4724b255",
-    "title": "しごと発見プラザかつしか　新サービスのご案内",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "しごと発見プラザかつしか　新サービスのご案内についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1019383/1003406/1032813.html"
-  },
-  {
-    "id": "7503ffbe",
-    "title": "IT相談",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-12",
-    "summary": "IT相談についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/business/1000011/1030233/1034396/1026598.html"
   }
 ]
