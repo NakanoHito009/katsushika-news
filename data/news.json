@@ -1,5 +1,50 @@
 [
   {
+    "id": "3a0ed002",
+    "title": "物品・委託等発注予定（11月24日）",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-11-24",
+    "summary": "物品・委託等発注予定（11月24日）についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/business/1000011/1000067/1005050/1044164.html"
+  },
+  {
+    "id": "a32c92fa",
+    "title": "保育園等入所申請はこちらから",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-11-24",
+    "summary": "保育園等入所申請はこちらからについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1036394.html"
+  },
+  {
+    "id": "5d707c23",
+    "title": "区立保育園会計年度任用職員（用務補助）を募集します",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-11-24",
+    "summary": "区立保育園会計年度任用職員（用務補助）を募集しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/information/1000086/saiyou/1006506/1027581.html"
+  },
+  {
+    "id": "a5a82934",
+    "title": "【重要】（令和9年4月1日利用分より）営利目的の対象施設が拡大します",
+    "category": "区政",
+    "categorySlug": "kusei",
+    "date": "2026-11-23",
+    "summary": "【重要】（令和9年4月1日利用分より）営利目的の対象施設が拡大しますについての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/tourism/1002753/1030217/1043732.html"
+  },
+  {
+    "id": "63893168",
+    "title": "保田しおさい学校見学会",
+    "category": "子育て",
+    "categorySlug": "kosodate",
+    "date": "2026-11-23",
+    "summary": "保田しおさい学校見学会についての最新情報です。詳細はリンクよりご確認ください。",
+    "url": "https://www.city.katsushika.lg.jp/event/1000107/1032258.html"
+  },
+  {
     "id": "493bc4e0",
     "title": "特定健康診査の特例実施期間を設けます",
     "category": "福祉",
@@ -223,50 +268,5 @@
     "date": "2026-11-20",
     "summary": "粗大ごみリユース情報　 無料リユース家具についてについての最新情報です。詳細はリンクよりご確認ください。",
     "url": "https://www.city.katsushika.lg.jp/kurashi/1000048/1001534/1001575.html"
-  },
-  {
-    "id": "eaed014b",
-    "title": "「心地よく健康になれたら、一番良くないですか？」食べたいものを食べて自分を大切にする食の形",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-11-20",
-    "summary": "「心地よく健康になれたら、一番良くないですか？」食べたいものを食べて自分を大切にする食の形についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/citypromotion/1041246/1041276/1044207.html"
-  },
-  {
-    "id": "3e1d85e8",
-    "title": "【シニア向け】介護予防・健康長寿講座　水元会場（全2回）",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-11-19",
-    "summary": "【シニア向け】介護予防・健康長寿講座　水元会場（全2回）についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/event/1000106/1030298/1042044.html"
-  },
-  {
-    "id": "17dcaf9f",
-    "title": "区民借上保養施設　抽選申込方法",
-    "category": "イベント",
-    "categorySlug": "event",
-    "date": "2026-11-19",
-    "summary": "区民借上保養施設　抽選申込方法についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/institution/1030225/1000098/1006943/1040655.html"
-  },
-  {
-    "id": "152cf913",
-    "title": "くらしのまど《広報かつしか令和8年11月25日号掲載》",
-    "category": "区政",
-    "categorySlug": "kusei",
-    "date": "2026-11-19",
-    "summary": "くらしのまど《広報かつしか令和8年11月25日号掲載》についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kurashi/1004028/1030175/1003400/1044100.html"
-  },
-  {
-    "id": "f70f93f0",
-    "title": "令和8年12月19日（新小岩）　認知症サポーター養成講座",
-    "category": "福祉",
-    "categorySlug": "fukushi",
-    "date": "2026-11-19",
-    "summary": "令和8年12月19日（新小岩）　認知症サポーター養成講座についての最新情報です。詳細はリンクよりご確認ください。",
-    "url": "https://www.city.katsushika.lg.jp/kenkou/1000052/1028737/1032371/1043810.html"
   }
 ]
